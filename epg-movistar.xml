@@ -1525,6 +1525,10 @@
     <title>Los jóvenes titanes en acción : Los Jóvenes Titanes en acción</title>
     <desc>Los Titanes aprenden que los juguetes de los programas de comedia no se venden, por lo que prometen convertirse en héroes de acción.</desc>
   </programme>
+  <programme channel="LCH1279.cl" start="20260810200400 -0400" stop="20260810202900 -0400">
+    <title>Los jóvenes titanes en acción : El cerebro de la familia</title>
+    <desc>La vida hogareña de Cerebro se ve interrumpida cuando su hermano más holgazán, Cerebrito, viene de visita. Cerebro y Mallah continúan lidiando con los líos de Cerebrito, pero cuando el secuaz está en problemas, todos trabajan juntos.</desc>
+  </programme>
   <channel id="LCH1747.cl">
     <display-name>HISTORY 2 HD</display-name>
   </channel>
@@ -3473,6 +3477,10 @@
     <title>24 horas deportes</title>
     <desc>Un programa con la mejor información deportiva.</desc>
   </programme>
+  <programme channel="LCH2180.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>24 horas deportes</title>
+    <desc>Un programa con la mejor información deportiva.</desc>
+  </programme>
   <programme channel="LCH2180.cl" start="20260808161500 -0400" stop="20260808163000 -0400">
     <title>24 Cuadros</title>
     <desc>Las noticias destacadas del cine y la televisión, así como los últimos estrenos de la cartelera.</desc>
@@ -3607,6 +3615,10 @@
   <programme channel="LCH2182.cl" start="20260809163000 -0400" stop="20260809183000 -0400">
     <title>SportsCenter+</title>
     <desc>Programación exclusiva del noticiero deportivo más visto en el mundo.</desc>
+  </programme>
+  <programme channel="LCH2182.cl" start="20260810200000 -0400" stop="20260810213000 -0400">
+    <title>ESPN F90</title>
+    <desc>Un clásico de la televisión con toda la actualidad, el mejor análisis y un muy rico debate futbolístico.</desc>
   </programme>
   <programme channel="LCH2182.cl" start="20260809065000 -0400" stop="20260809085500 -0400">
     <title>Amistosos de fútbol de clubes masculinos : Manchester City vs. Atlético Madrid</title>
@@ -4202,6 +4214,10 @@
     <title>Efecto N</title>
     <desc>Un espacio para jóvenes con noticias, juegos presenciales y juegos a distancia, ¡totalmente interactivo!</desc>
   </programme>
+  <programme channel="LCH4088.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>¿Qué sucede?</title>
+    <desc>Las noticias más relevantes del acontecer diario, a la vez que se conversa con personalidades relevantes para entender mejor.</desc>
+  </programme>
   <programme channel="LCH4088.cl" start="20260809210000 -0400" stop="20260809220000 -0400">
     <title>Aquí te las traigo Peter</title>
     <desc>Programa donde se muestran los diferentes oficios de los chilenos y sus historias de vidas, desde los ojos de un inmigrante que vive en Chile hace 15 años.</desc>
@@ -4593,6 +4609,10 @@
     <title>Video clips</title>
     <desc>Los mejores videoclips del momento y los clásicos de siempre.</desc>
   </programme>
+  <programme channel="LCH4098.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Bis: Sonido en vivo</title>
+    <desc>Videos musicales del mundo del rock.</desc>
+  </programme>
   <channel id="LCH4099.cl">
     <display-name>ZONA LATINA HD</display-name>
   </channel>
@@ -4983,6 +5003,10 @@
     <title>Líbero : vs.</title>
     <desc>La mirada de los analistas más destacados en un espacio que combina información, debate, actualidad y los informes más originales.</desc>
   </programme>
+  <programme channel="LCH4114.cl" start="20260810200000 -0400" stop="20260810201000 -0400">
+    <title>Líbero : vs.</title>
+    <desc>La mirada de los analistas más destacados en un espacio que combina información, debate, actualidad y los informes más originales.</desc>
+  </programme>
   <programme channel="LCH4114.cl" start="20260808155500 -0400" stop="20260808180000 -0400">
     <title>Fútbol Argentino Primera División : Rosario Central vs. Aldosivi</title>
     <desc>Rosario Central recibe al Aldosivi en el Estadio Gigante de Arroyito por la fecha 4 de la Zona B del Torneo Clausura 2026. El Tiburon ha ganado 3 de los últimos 5 encuentros desde 2021. Este es su segundo enfrentamiento del año.</desc>
@@ -5181,6 +5205,10 @@
   <programme channel="LCH512.cl" start="20260808065400 -0400" stop="20260808083400 -0400">
     <title>Cómo atrapar a un marido</title>
     <desc>Un agente del IRS investiga a un evasor de impuestos bravucón y termina enamorándose de la hija del granjero.</desc>
+  </programme>
+  <programme channel="LCH512.cl" start="20260810200500 -0400" stop="20260810220000 -0400">
+    <title>Una Venus en visón</title>
+    <desc>Gloria, una prostituta de lujo de Manhattan, se enamora perdidamente de Weston Liggett, un hombre rico y casado.</desc>
   </programme>
   <programme channel="LCH512.cl" start="20260808235400 -0400" stop="20260809014300 -0400">
     <title>Como agua para chocolate</title>
@@ -6972,6 +7000,10 @@
     <title>A todos los hombres que me amaron</title>
     <desc>Una exitosa mujer de carrera renuncia al amor después de repetidos rompimientos amorosos, hasta que dos hombres entran en su vida.</desc>
   </programme>
+  <programme channel="LCH5564.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>¿Eres humano también?</title>
+    <desc>Un joven queda en coma y su madre crea un robot con inteligencia artificial idéntico a él para que asuma su identidad hasta que recobre la consciencia.</desc>
+  </programme>
   <channel id="LCH564.cl">
     <display-name>TELECANAL</display-name>
   </channel>
@@ -7010,6 +7042,10 @@
   <programme channel="LCH564.cl" start="20260809210000 -0400" stop="20260809211000 -0400">
     <title>Caminando Chile</title>
     <desc/>
+  </programme>
+  <programme channel="LCH564.cl" start="20260810200000 -0400" stop="20260810205900 -0400">
+    <title>La 3era en discordia</title>
+    <desc>Discusión sobre los conflictos familiares y las relaciones humanas, con la participación de todos los involucrados. Además, la presencia ocasional de especialistas y herramientas para consensuar y ser tolerantes.</desc>
   </programme>
   <programme channel="LCH564.cl" start="20260808100000 -0400" stop="20260808140000 -0400">
     <title>Programa pagado</title>
@@ -7132,6 +7168,10 @@
     <desc/>
   </programme>
   <programme channel="LCH564.cl" start="20260809220000 -0400" stop="20260809221000 -0400">
+    <title>Caminando Chile</title>
+    <desc/>
+  </programme>
+  <programme channel="LCH564.cl" start="20260810195900 -0400" stop="20260810200000 -0400">
     <title>Caminando Chile</title>
     <desc/>
   </programme>
@@ -7340,6 +7380,10 @@
   <programme channel="LCH568.cl" start="20260810122000 -0400" stop="20260810140000 -0400">
     <title>Fútbol Chileno Primera División</title>
     <desc>Los mejores partidos y toda la acción del fútbol chileno de Primera División.</desc>
+  </programme>
+  <programme channel="LCH568.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>Fútbol: Previa</title>
+    <desc>Reportajes, análisis y comentarios previo al gran evento deportivo.</desc>
   </programme>
   <programme channel="LCH568.cl" start="20260808004000 -0400" stop="20260808024000 -0400">
     <title>Fútbol Chileno Primera División : Universidad Católica vs. Cobresal</title>
@@ -7946,6 +7990,10 @@
   <programme channel="LCH595.cl" start="20260810003700 -0400" stop="20260810010000 -0400">
     <title>Scooby-Doo! Misterios S.A.</title>
     <desc>Scooby-Doo y sus amigos resuelven misterios en el pueblo turístico de Crystal Cove.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260810200500 -0400" stop="20260810201200 -0400">
+    <title>Hi Hi Puffy AmiYumi</title>
+    <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
   </programme>
   <programme channel="LCH595.cl" start="20260808103700 -0400" stop="20260808104700 -0400">
     <title>Los pequeños Looney Tunes</title>
@@ -9150,6 +9198,10 @@
     <title>La mañana con Moria</title>
     <desc>Un espacio que promete debates sobre los temas del día, actualidad, policiales, política, espectáculos, salud y entretenimiento.</desc>
   </programme>
+  <programme channel="LCH599.cl" start="20260810200000 -0400" stop="20260810213000 -0400">
+    <title>Es mi sueño</title>
+    <desc>En busca de la nueva estrella que brille en todo el país y que, con su talento e historia, conmueva a todos los argentinos. El objetivo es descubrir esa voz, esa presencia, ese artista capaz de trascender la pantalla y conquistar corazones.</desc>
+  </programme>
   <programme channel="LCH599.cl" start="20260808010000 -0400" stop="20260808023000 -0400">
     <title>Seres queridos</title>
     <desc>Una joven mujer presenta a su novio palestino a su familia judía y surgen muchos problemas.</desc>
@@ -9411,6 +9463,10 @@
   <programme channel="LCH604.cl" start="20260810030000 -0400" stop="20260810060000 -0400">
     <title>Béisbol MLB : Houston Astros vs. San Diego Padres</title>
     <desc>Tercer juego de la serie regular de la MLB 2026. Houston Astros visita a San Diego Padres. Desde el Petco Park, en San Diego, California.</desc>
+  </programme>
+  <programme channel="LCH604.cl" start="20260810200000 -0400" stop="20260810220000 -0400">
+    <title>Amistosos de fútbol de clubes masculinos : Manchester City vs. Atlético Madrid</title>
+    <desc>Acción del amistoso de preparación de cara a la temporada 2026-27. Manchester City (Inglaterra) ante Atlético de Madrid (España).</desc>
   </programme>
   <programme channel="LCH604.cl" start="20260810060000 -0400" stop="20260810080000 -0400">
     <title>ESPN KnockOut : Sebastián Hernández vs. José López Núñez</title>
@@ -10089,6 +10145,10 @@
     <title>ESPN Compact</title>
     <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
   </programme>
+  <programme channel="LCH618.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>ESPN Compact : MotoGP: Reino Unido</title>
+    <desc>Los momentos más destacados de la carrera principal de la ronda 12 del MotoGP 2026 con el Gran Premio del Reino Unido. Desde el Circuito de Silverstone, en Northamptonshire, Inglaterra. Disputado el 9 de agosto de 2026.</desc>
+  </programme>
   <programme channel="LCH618.cl" start="20260810160000 -0400" stop="20260810170000 -0400">
     <title>SailGP : Portsmouth</title>
     <desc>Los momentos más destacados de la ronda 8 del SailGP 2026. Desde Southsea en Portsmouth, Inglaterra. Disputado del 25 al 26 de julio de 2026.</desc>
@@ -10722,6 +10782,10 @@
     <title>Chilevisión noticias tarde</title>
     <desc>Las noticias de actualidad nacional e internacional.</desc>
   </programme>
+  <programme channel="LCH629.cl" start="20260810200000 -0400" stop="20260810223500 -0400">
+    <title>Chilevisión noticias central</title>
+    <desc>La actualidad nacional e internacional presentada por los mejores profesionales del periodismo actual.</desc>
+  </programme>
   <programme channel="LCH629.cl" start="20260807223500 -0400" stop="20260808010000 -0400">
     <title>Primer plano</title>
     <desc>Toda la información sobre el mundo de la farándula de la televisión chilena.</desc>
@@ -10958,6 +11022,10 @@
     <desc>Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.</desc>
   </programme>
   <programme channel="LCH642.cl" start="20260810160000 -0400" stop="20260810170000 -0400">
+    <title>UEFA Champions League Weekly</title>
+    <desc>Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.</desc>
+  </programme>
+  <programme channel="LCH642.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
     <title>UEFA Champions League Weekly</title>
     <desc>Momentos destacados, entrevistas y toda la información de la jornada semanal de la UEFA Champions League.</desc>
   </programme>
@@ -11642,6 +11710,10 @@
     <title>Micrófono abierto</title>
     <desc>Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.</desc>
   </programme>
+  <programme channel="LCH6525.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Micrófono abierto</title>
+    <desc>Detalle de todo lo mejor del acontecer nacional e internacional deportivo, con entrevistas a destacados personajes de todo ámbito.</desc>
+  </programme>
   <programme channel="LCH6525.cl" start="20260810120000 -0400" stop="20260810123000 -0400">
     <title>Hablemos a las 12</title>
     <desc>Programa de noticias con la información actualizada de los hechos más importantes.</desc>
@@ -11940,6 +12012,10 @@
   <programme channel="LCH6611.cl" start="20260810034000 -0400" stop="20260810050000 -0400">
     <title>33 Photos From the Ghetto</title>
     <desc>Cuenta la historia de las únicas fotografías conocidas tomadas en el interior del gueto de Varsovia durante el levantamiento de abril de 1943 y su brutal represión que no fueron tomadas por las fuerzas alemanas.</desc>
+  </programme>
+  <programme channel="LCH6611.cl" start="20260810200500 -0400" stop="20260810220000 -0400">
+    <title>Sombras de un crimen</title>
+    <desc>El detective Philip Marlowe se adentra en una investigación relacionada con una familia de la alta sociedad de Bay City, California, después de que una hermosa rubia lo contratara para encontrar a su examante.</desc>
   </programme>
   <programme channel="LCH6611.cl" start="20260808140300 -0400" stop="20260808160100 -0400">
     <title>Mountainhead</title>
@@ -12454,6 +12530,10 @@
     <title>¿Dónde estás?</title>
     <desc>Los casos de personas desaparecidas en diferentes ciudades del país.</desc>
   </programme>
+  <programme channel="LCH7017.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>Deportes en CHV Noticias</title>
+    <desc>Todas las novedades e información deportiva del día.</desc>
+  </programme>
   <programme channel="LCH7017.cl" start="20260808073000 -0400" stop="20260808120000 -0400">
     <title>CHV Noticias A.M. Fin de semana</title>
     <desc>Un repaso con toda la información de la semana.</desc>
@@ -12664,6 +12744,10 @@
   <programme channel="LCH7157.cl" start="20260809190000 -0400" stop="20260809200000 -0400">
     <title>La trampa del amor</title>
     <desc>A Erkut le cuesta trabajo aceptar su nuevo puesto en la empresa de los Yigiter. Kerem busca la manera de llamar la atención de su esposa.</desc>
+  </programme>
+  <programme channel="LCH7157.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>La trampa del amor</title>
+    <desc>Yelda se da cuenta de que su hijo ha tenido un accidente, su reacción es exagerada y causa molestia a todos en casa.</desc>
   </programme>
   <programme channel="LCH7157.cl" start="20260808160000 -0400" stop="20260808170000 -0400">
     <title>Como la vida misma</title>
@@ -13576,6 +13660,10 @@
     <title>Grado de cambio</title>
     <desc>La información sobre el clima más relevante.</desc>
   </programme>
+  <programme channel="LCH7158.cl" start="20260810200000 -0400" stop="20260810201000 -0400">
+    <title>Megatiempo a la hora</title>
+    <desc>Cápsulas con noticias.</desc>
+  </programme>
   <channel id="LCH7159.cl">
     <display-name>Meganoticias</display-name>
   </channel>
@@ -14006,6 +14094,10 @@
     <title>Carmen Gloria: Fuerte y claro</title>
     <desc>Talk show diario liderado por Carmen Gloria Arroyo, que aborda la actualidad social con historias reales, orientación y soluciones concretas para las personas.</desc>
   </programme>
+  <programme channel="LCH7160.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Carmen Gloria: Fuerte y claro</title>
+    <desc>Talk show diario liderado por Carmen Gloria Arroyo, que aborda la actualidad social con historias reales, orientación y soluciones concretas para las personas.</desc>
+  </programme>
   <programme channel="LCH7160.cl" start="20260810040000 -0400" stop="20260810050000 -0400">
     <title>La ruta del agua : Pichilemu</title>
     <desc>Tita llegó hasta la región de O Higgins, donde a través de los testimonios de sus habitantes, aprendió sobre el oficio del arriero, así como del comercio de algas. Finalmente, en Pichilemu, Tita aprendió sobre el deporte del surf.</desc>
@@ -14148,6 +14240,10 @@
   <programme channel="LCH7162.cl" start="20260810180000 -0400" stop="20260810183000 -0400">
     <title>Programación regular</title>
     <desc>Videos musicales nacionales e internacionales.</desc>
+  </programme>
+  <programme channel="LCH7162.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Periodismo al día</title>
+    <desc>Noticias y entrevistas.</desc>
   </programme>
   <channel id="LCH7163.cl">
     <display-name>UChile TV</display-name>
@@ -14519,6 +14615,10 @@
   <programme channel="LCH7163.cl" start="20260810115000 -0400" stop="20260810120000 -0400">
     <title>Rayén, Nahuel y el Nutriverso</title>
     <desc>Se presenta la historia de Nahuel, un niño que de forma inesperada aterriza en el Nutriverso, un misterioso lugar en el que la alimentación sostenible es fundamental.</desc>
+  </programme>
+  <programme channel="LCH7163.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Mi escuela rural</title>
+    <desc>Ocho universos geográficos y culturales donde se desarrolla la educación rural en Chile. La visión de quienes han dedicado su vida a mantener a flote una forma de enseñanza y de vida.</desc>
   </programme>
   <channel id="LCH7164.cl">
     <display-name>Polar TV</display-name>
@@ -15252,6 +15352,10 @@
     <title>Girovisual noticias</title>
     <desc>La información más destacada y las últimas noticias.</desc>
   </programme>
+  <programme channel="LCH7168.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Girovisual noticias</title>
+    <desc>La información más destacada y las últimas noticias.</desc>
+  </programme>
   <programme channel="LCH7168.cl" start="20260808020000 -0400" stop="20260808030000 -0400">
     <title>Amplificando Chile</title>
     <desc/>
@@ -15823,6 +15927,10 @@
     <title>Cultura TVR</title>
     <desc>Una selección de programas culturales.</desc>
   </programme>
+  <programme channel="LCH7169.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>Chismosos</title>
+    <desc/>
+  </programme>
   <programme channel="LCH7169.cl" start="20260808103000 -0400" stop="20260808110000 -0400">
     <title>La Once en el 14</title>
     <desc/>
@@ -16334,6 +16442,10 @@
     <title>Mi propio jefe</title>
     <desc>Las ideas más innovadoras y los consejos más acertados para concretar el sueño del emprendimiento propio.</desc>
   </programme>
+  <programme channel="LCH7170.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Pulso</title>
+    <desc>Espacio para conversar sobre los temas de actualidad que rodean al fútbol chileno y al deporte nacional en general.</desc>
+  </programme>
   <channel id="LCH7173.cl">
     <display-name>UCV TV</display-name>
   </channel>
@@ -16633,6 +16745,10 @@
     <title>Cara a cara</title>
     <desc>Una alternativa a las noticias, con invitados de actualidad. Cada semana, un personaje del ambiente nacional se explaya sobre diferentes tópicos en un ambiente cálido, pero no ajeno a la polémica y a la denuncia.</desc>
   </programme>
+  <programme channel="LCH7173.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>El superagente 86</title>
+    <desc>Maxwell Smart trabaja para la agencia de contrainteligencia CONTROL como el Agente 86, un individuo totalmente inepto que se las arregla junto con sus compañeros para frustrar las operaciones de la organización criminal KAOS.</desc>
+  </programme>
   <programme channel="LCH7173.cl" start="20260810060000 -0400" stop="20260810080000 -0400">
     <title>Siempre hay tiempo</title>
     <desc>Espacio que promete conectar de manera transversal a rangos etarios y socioculturales diversos, con educación, información y servicios de una manera lúdica y cercana, destacando siempre las noticias positivas y la interacción constante.</desc>
@@ -16805,6 +16921,10 @@
     <desc>Un espacio que muestra los avances que ocurrieron en la década de los ochenta.</desc>
   </programme>
   <programme channel="LCH767.cl" start="20260809230000 -0400" stop="20260810000000 -0400">
+    <title>Hippie</title>
+    <desc/>
+  </programme>
+  <programme channel="LCH767.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
     <title>Hippie</title>
     <desc/>
   </programme>
@@ -17234,6 +17354,10 @@
     <title>ESPN Compact : Premier Padel 2026 - Londres P1 - Final Femenina</title>
     <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
   </programme>
+  <programme channel="LCH858.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>ESPN Compact : Premier Padel 2026 - Londres P1 - Final Femenina</title>
+    <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
+  </programme>
   <programme channel="LCH858.cl" start="20260809220000 -0400" stop="20260809230000 -0400">
     <title>ESPN Compact : Premier Padel 2026 - Londres P1 - Final Masculina</title>
     <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
@@ -17312,6 +17436,10 @@
   <programme channel="LCH865.cl" start="20260810130000 -0400" stop="20260810150000 -0400">
     <title>Meganoticias alerta</title>
     <desc>Noticiero con la información más relevante de Chile y el mundo.</desc>
+  </programme>
+  <programme channel="LCH865.cl" start="20260810200000 -0400" stop="20260810212500 -0400">
+    <title>Meganoticias prime</title>
+    <desc>Un noticiero que brinda las últimas noticias sobre Chile y el mundo.</desc>
   </programme>
   <programme channel="LCH865.cl" start="20260807221000 -0400" stop="20260808003000 -0400">
     <title>Detrás del muro</title>
@@ -17607,6 +17735,10 @@
   <programme channel="LCH2201.cl" start="20260810164500 -0400" stop="20260810190000 -0400">
     <title>Campeonato Mundial Femenino Sub-17 de Voleibol FIVB 2026</title>
     <desc>Cobertura de la segunda edición del campeonato mundial de voleibol femenino en la categoría sub-17. Desde Santiago, Chile.</desc>
+  </programme>
+  <programme channel="LCH2201.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Latina noticias central</title>
+    <desc>Las últimas noticias del Perú y el mundo.</desc>
   </programme>
   <programme channel="LCH2201.cl" start="20260810063000 -0400" stop="20260810070000 -0400">
     <title>Latina noticias despierta con matinal</title>
@@ -18221,6 +18353,10 @@
     <title>Noticias ahora</title>
     <desc>Las noticias más relevantes del panorama actual, con transparencia e inmediatez.</desc>
   </programme>
+  <programme channel="LCH2204.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Geomundo</title>
+    <desc>Un programa que es una ventana para mirar el mundo y sus conflictos internacionales con un análisis agudo, por medio de entrevistas y reportajes.</desc>
+  </programme>
   <programme channel="LCH2204.cl" start="20260809140000 -0400" stop="20260809150000 -0400">
     <title>Deporte express</title>
     <desc>Las novedades diarias del mundo del deporte, fútbol nacional e internacional, y el seguimiento a los deportistas más destacados del país.</desc>
@@ -18572,6 +18708,10 @@
     <title>Alto al crimen</title>
     <desc>Reportajes de operativos policiales contra la delincuencia, drogas y terrorismo. Además, el programa cuenta con un servicio para poder realizar denuncias a través de su aplicación móvil.</desc>
   </programme>
+  <programme channel="LCH2205.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Corazón abandonado</title>
+    <desc>La familia Sayar comienza una nueva vida tras algunas pérdidas.</desc>
+  </programme>
   <programme channel="LCH2205.cl" start="20260810140000 -0400" stop="20260810150000 -0400">
     <title>Andrea</title>
     <desc>Un programa que apuesta a darle solución a los problemas que muchos peruanos viven diariamente.</desc>
@@ -18842,6 +18982,10 @@
   <programme channel="LCH2218.cl" start="20260810000000 -0400" stop="20260810010000 -0400">
     <title>No matarás</title>
     <desc>Como enviado especial del Vaticano, el padre Simón Castell resuelve difíciles crímenes involucrados, de alguna forma u otra, con la Iglesia.</desc>
+  </programme>
+  <programme channel="LCH2218.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Soy Luna</title>
+    <desc>Luna vive con su familia en Cancún, México, donde tiene un grupo de amigos en la escuela y una fascinación por patinar. Sin embargo, su vida cambia cuando sus padres reciben una oferta de trabajo y deben mudarse a Buenos Aires, Argentina.</desc>
   </programme>
   <programme channel="LCH2218.cl" start="20260808000000 -0400" stop="20260808010000 -0400">
     <title>Grey's Anatomy</title>
@@ -19198,6 +19342,10 @@
     <title>Amor prohibido</title>
     <desc>Una familia vive en uno de los mejores vecindarios de Estambul con el hijo de un pariente, Behlül y la niñera de sus hijos. Behlül conoce a Bihter años más tarde y se enamora profundamente de ella.</desc>
   </programme>
+  <programme channel="LCH2219.cl" start="20260810200000 -0400" stop="20260810205500 -0400">
+    <title>Willax noticias edición central</title>
+    <desc>Edición central con el desarrollo y cobertura noticiosa de todos los acontecimientos nacionales e internacionales.</desc>
+  </programme>
   <programme channel="LCH2219.cl" start="20260808110000 -0400" stop="20260808113000 -0400">
     <title>MyM, la verdad detrás de la belleza</title>
     <desc/>
@@ -19376,6 +19524,10 @@
   <programme channel="LCH2318.cl" start="20260809210000 -0400" stop="20260809220000 -0400">
     <title>Primero a las 8 Edición dominical</title>
     <desc>Programa informativo con todos los hechos que hacen noticia.</desc>
+  </programme>
+  <programme channel="LCH2318.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>N Portada</title>
+    <desc>Un espacio de análisis noticioso, las cuatro mejores noticias del día son analizadas y comentadas por los analistas invitados y los periodistas de la casa.</desc>
   </programme>
   <programme channel="LCH2318.cl" start="20260808000000 -0400" stop="20260808003000 -0400">
     <title>Perú Potencia</title>
@@ -19656,6 +19808,10 @@
     <title>Retro</title>
     <desc>Un programa que hará un reencuentro a una variedad de series que quedaron plasmadas en la memoria de los televidentes.</desc>
   </programme>
+  <programme channel="LCH2377.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>La Fiera</title>
+    <desc>Catalina Chamorro, una mujer de carácter fuerte, rechaza a cuantos pretendientes se crucen en su camino. El problema es que su padre se niega a entregar en matrimonio a Blanca, su hija menor, hasta que no haya casado a Catalina, la mayor.</desc>
+  </programme>
   <programme channel="LCH2377.cl" start="20260809044500 -0400" stop="20260809051500 -0400">
     <title>Entre viñas</title>
     <desc>Un programa que visita diversas viñas, mostrando la gran gama de vinos chilenos.</desc>
@@ -19883,6 +20039,10 @@
     <title>Economía para todos</title>
     <desc>Un espacio destinado a las últimas noticias económicas.</desc>
   </programme>
+  <programme channel="LCH2459.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Las cosas como son</title>
+    <desc>Un programa con entrevistas a especialistas para analizar diversos temas de actualidad política, social y económica.</desc>
+  </programme>
   <channel id="LCH3298.cl">
     <display-name>M DEPORTES HD</display-name>
   </channel>
@@ -19985,6 +20145,10 @@
   <programme channel="LCH3298.cl" start="20260810080000 -0400" stop="20260810100000 -0400">
     <title>Movistar Deportes</title>
     <desc>Los mejores especiales deportivos con una mirada más de cerca de la actualidad del deporte nacional e internacional.</desc>
+  </programme>
+  <programme channel="LCH3298.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>Perú surf</title>
+    <desc>Un programa producido y dirigido íntegramente por tablistas y bodyboarders peruanos para seguir a los surfistas en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.</desc>
   </programme>
   <programme channel="LCH3298.cl" start="20260809110000 -0400" stop="20260809120000 -0400">
     <title>Full ruedas</title>
@@ -20448,6 +20612,10 @@
   <programme channel="LCH3451.cl" start="20260810150000 -0400" stop="20260810160000 -0400">
     <title>Steve Romero</title>
     <desc/>
+  </programme>
+  <programme channel="LCH3451.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>El deportivo digital con Jason Sánchez</title>
+    <desc>Jason Sánchez analiza y comenta noticias del mundo del deporte.</desc>
   </programme>
   <programme channel="LCH3451.cl" start="20260810113000 -0400" stop="20260810130000 -0400">
     <title>Así de simple</title>
@@ -20956,6 +21124,10 @@
     <title>Rugby : XV's Masculino: Blue Sharks vs. Lima RC</title>
     <desc>Fecha 1 del Torneo Clausura 2026 XV's Masculino. Blue Sharks se enfrenta a Lima RC. Desde el Complejo Deportivo Villa María del Triunfo, en Lima.</desc>
   </programme>
+  <programme channel="LCH5619.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>Rugby : XV's Masculino: Blue Sharks vs. Lima RC</title>
+    <desc>Fecha 1 del Torneo Clausura 2026 XV's Masculino. Blue Sharks se enfrenta a Lima RC. Desde el Complejo Deportivo Villa María del Triunfo, en Lima.</desc>
+  </programme>
   <programme channel="LCH5619.cl" start="20260810170000 -0400" stop="20260810173000 -0400">
     <title>Rally : Arequipa</title>
     <desc>La Ciudad Blanca se vuelve el escenario donde se reúnen los mejores pilotos para el RallyMobil Perú. Desde Arequipa.</desc>
@@ -21338,6 +21510,10 @@
   <programme channel="LCH5703.cl" start="20260810060500 -0400" stop="20260810070000 -0400">
     <title>Bestias del Gran Azul</title>
     <desc>Las reservas marinas de Nueva Zelanda, en un viaje épico desde el extremo norte hasta el sur profundo.</desc>
+  </programme>
+  <programme channel="LCH5703.cl" start="20260810200500 -0400" stop="20260810210000 -0400">
+    <title>Maestros del vuelo</title>
+    <desc>Experimenta la libertad de una auténtica vista aérea mientras las criaturas del mundo celeste aprenden a volar, a atrapar presas en pleno vuelo, a encontrar el amor y a forjar nuevas rutas de vuelo.</desc>
   </programme>
   <channel id="LCH6299.cl">
     <display-name>TV5</display-name>
@@ -22161,6 +22337,10 @@
     <title>El hombre nuclear</title>
     <desc>Un astronauta ha sido salvado por la medicina cibernética. Ahora cuenta con increíbles poderes para ayudar al gobierno.</desc>
   </programme>
+  <programme channel="LCH6309.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Elif</title>
+    <desc>Melek se enamora de Kenan, el hijo favorito de la familia para la que trabajaba. Pero la madre de Kenan la rechaza y la envía lejos a pesar de estar embarazada. La hija de ambos, Elif, nace mientras su padre se casa con otra mujer.</desc>
+  </programme>
   <programme channel="LCH6309.cl" start="20260810120000 -0400" stop="20260810130000 -0400">
     <title>Escape perfecto</title>
     <desc>Para desbloquear una jaula gigante llena de fabulosos premios hay que pensar, hablar y moverse rápido, responder correctamente a las preguntas y aprovechar los 90 segundos para llevárselo todo.</desc>
@@ -22379,6 +22559,10 @@
   <programme channel="LCH6509.cl" start="20260810010000 -0400" stop="20260810020000 -0400">
     <title>Alto al crimen</title>
     <desc>Reportajes de operativos policiales contra la delincuencia, drogas y terrorismo. Además, el programa cuenta con un servicio para poder realizar denuncias a través de su aplicación móvil.</desc>
+  </programme>
+  <programme channel="LCH6509.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Corazón abandonado</title>
+    <desc>La familia Sayar comienza una nueva vida tras algunas pérdidas.</desc>
   </programme>
   <programme channel="LCH6509.cl" start="20260810113000 -0400" stop="20260810130000 -0400">
     <title>Así de simple</title>
@@ -23770,6 +23954,10 @@
     <title>Parques nacionales de Estados Unidos : Yellowstone</title>
     <desc>En este programa se conocen los parques nacionales más célebres de Estados Unidos, con sus impresionantes paisajes que fascinan a millones de habitantes.</desc>
   </programme>
+  <programme channel="LCH2637.cl" start="20260810195900 -0400" stop="20260810210100 -0400">
+    <title>Contrabandistas con Mariana Van Zeller : Autos robados</title>
+    <desc>Mariana rastrea una ruta de contrabando de automóviles robados desde Estados Unidos hasta África Occidental.</desc>
+  </programme>
   <channel id="LCH2651.cl">
     <display-name>GOLDEN HD</display-name>
   </channel>
@@ -24203,6 +24391,10 @@
     <title>Noticias Caracol: Edición central</title>
     <desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
   </programme>
+  <programme channel="LCH2713.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Noticias Caracol: Edición central</title>
+    <desc>Los hechos que son noticia, en compañía de un excelente equipo periodístico.</desc>
+  </programme>
   <programme channel="LCH2713.cl" start="20260808093000 -0400" stop="20260808113000 -0400">
     <title>48 Christmas Wishes</title>
     <desc>Dos elfos menores extraviaron las cartas de un pueblo a Santa y se dispusieron a recuperar los deseos que faltaban.</desc>
@@ -24565,6 +24757,10 @@
     <title>SportsCenter</title>
     <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
   </programme>
+  <programme channel="LCH2722.cl" start="20260810200000 -0400" stop="20260810220000 -0400">
+    <title>SportsCenter</title>
+    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
+  </programme>
   <programme channel="LCH2722.cl" start="20260809065000 -0400" stop="20260809085500 -0400">
     <title>Amistosos de fútbol de clubes masculinos : Manchester City vs. Atlético Madrid</title>
     <desc>Acción del amistoso de preparación de cara a la temporada 2026-27. Manchester City (Inglaterra) ante Atlético de Madrid (España).</desc>
@@ -24799,6 +24995,10 @@
   <programme channel="LCH2738.cl" start="20260810010000 -0400" stop="20260810020000 -0400">
     <title>Los comediantes de la noche</title>
     <desc>Un programa divertido que recopila los mejores shows de stand up comedy con la presentación de los mejores comediantes con un humor mordaz e inteligente.</desc>
+  </programme>
+  <programme channel="LCH2738.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Noticias RCN</title>
+    <desc>Un espacio para encontrar contenidos de opinión, análisis y debate. Toda la información originada desde el lugar de la noticia.</desc>
   </programme>
   <programme channel="LCH2738.cl" start="20260810153000 -0400" stop="20260810163000 -0400">
     <title>Caso cerrado</title>
@@ -26385,6 +26585,10 @@
     <title>¿Quién da má$? : El dinero manda</title>
     <desc>Esta vez en Montebello, René se enfrenta cara a cara con Darrell, compra la unidad hermana para ver si finalmente puede destituir al rey. Lisa y su perro se escabullen en un casillero que gana su sello de aprobación.</desc>
   </programme>
+  <programme channel="LCH3122.cl" start="20260810200000 -0400" stop="20260810202500 -0400">
+    <title>¿Quién da má$? : El dinero manda</title>
+    <desc>Esta vez en Montebello, René se enfrenta cara a cara con Darrell, compra la unidad hermana para ver si finalmente puede destituir al rey. Lisa y su perro se escabullen en un casillero que gana su sello de aprobación.</desc>
+  </programme>
   <channel id="LCH3123.cl">
     <display-name>CINEMAX</display-name>
   </channel>
@@ -26610,6 +26814,10 @@
   <programme channel="LCH3124.cl" start="20260809193000 -0400" stop="20260809200000 -0400">
     <title>Béisbol Esta Noche</title>
     <desc>Destacados, noticias y análisis de béisbol de las grandes ligas.</desc>
+  </programme>
+  <programme channel="LCH3124.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Equipo Scrum</title>
+    <desc>Lo mejor del mundo del Rugby en este especial que resume los acontecimientos más recientes.</desc>
   </programme>
   <programme channel="LCH3124.cl" start="20260808094500 -0400" stop="20260808121500 -0400">
     <title>Tour de Francia Femenino 2026 : Etapa 8</title>
@@ -27746,6 +27954,10 @@
   <programme channel="LCH3175.cl" start="20260808180000 -0400" stop="20260808201000 -0400">
     <title>Fútbol Argentino Primera División : Boca Juniors vs. Vélez Sarsfield</title>
     <desc>Boca Juniors recibe a Vélez Sarsfield en La Bombonera por la fecha 4 de la Zona A del Clausura 2026. Desde 2023, El Fortín ha ganado 3 de 5 juegos ante Xeneize, incluyendo el más reciente en el Apertura, 2-1.</desc>
+  </programme>
+  <programme channel="LCH3175.cl" start="20260810200000 -0400" stop="20260810221000 -0400">
+    <title>Fútbol Argentino Primera División : Unión (SF) vs. Central Córdoba (SE)</title>
+    <desc>Unión de Santa Fe recibe a Central Córdoba en el Estadio 15 de Abril por la fecha 4 de la Zona A del Torneo Clausura 2026. El Ferroviario busca su tercer triunfo directo sobre El Tate desde 2025.</desc>
   </programme>
   <programme channel="LCH3175.cl" start="20260809211000 -0400" stop="20260809230000 -0400">
     <title>ESPN Fútbol 1</title>
@@ -29045,6 +29257,10 @@
     <title>Fútbol UEFA Champions League</title>
     <desc>Acción de la competición de los mejores clubes de fútbol de Europa, la Liga de Campeones.</desc>
   </programme>
+  <programme channel="LCH3280.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Telemétrico</title>
+    <desc>Cobertura de lo que acontece dentro del mundo de la Fórmula 1.</desc>
+  </programme>
   <programme channel="LCH3280.cl" start="20260809063000 -0400" stop="20260809073000 -0400">
     <title>El Show de Copa Libertadores</title>
     <desc>Los goles, los aspectos más destacados y un resumen de todo lo que pasó en la competencia más importante de América Latina.</desc>
@@ -29175,6 +29391,10 @@
   <programme channel="LCH3281.cl" start="20260807224000 -0400" stop="20260808003500 -0400">
     <title>Fútbol Argentino Primera División : Tigre vs. Belgrano</title>
     <desc>Tigre recibe a Belgrano en el Coliseo de Victoria por la fecha 2 de la Zona B del Clausura 2026. Los últimos 4 enfrentamientos directos han terminado en un empate. Desde 2024, se obtuvo una victoria a favor de El Pirata.</desc>
+  </programme>
+  <programme channel="LCH3281.cl" start="20260810200000 -0400" stop="20260810221000 -0400">
+    <title>Fútbol Argentino Primera División : Unión (SF) vs. Central Córdoba (SE)</title>
+    <desc>Unión de Santa Fe recibe a Central Córdoba en el Estadio 15 de Abril por la fecha 4 de la Zona A del Torneo Clausura 2026. El Ferroviario busca su tercer triunfo directo sobre El Tate desde 2025.</desc>
   </programme>
   <programme channel="LCH3281.cl" start="20260808023000 -0400" stop="20260808042500 -0400">
     <title>Fútbol Argentino Primera División : Vélez Sarsfield vs. Independiente</title>
@@ -30238,6 +30458,10 @@
     <title>Spin City : Bye, Bye, Birdie</title>
     <desc>Mike y el personal dan fiestas de despedida de soltero para Paul y Claudia; Mike mira una escultura obscena que fue contratada por el gobierno de la ciudad.</desc>
   </programme>
+  <programme channel="LCH3310.cl" start="20260810200500 -0400" stop="20260810203000 -0400">
+    <title>South Park : Problema de amígdalas</title>
+    <desc>Cartman se enfrenta cara a cara con su propia mortalidad cuando su amigdalectomía de rutina sale terriblemente mal.</desc>
+  </programme>
   <channel id="LCH3317.cl">
     <display-name>SPACE</display-name>
   </channel>
@@ -30744,6 +30968,10 @@
     <title>El chico de oro</title>
     <desc>Todo está listo para la boda y los invitados están llegando. Suna está encantada, pero una sorpresa en la ceremonia impacta a ambas hermanas.</desc>
   </programme>
+  <programme channel="LCH3318.cl" start="20260810200200 -0400" stop="20260810205400 -0400">
+    <title>El chico de oro</title>
+    <desc>Seyran y Gülgün se unen entre planes cancelados. Saber que Ferit fue obligado a casarse altera a Seyran. Hattuç siente remordimientos.</desc>
+  </programme>
   <channel id="LCH3320.cl">
     <display-name>FOX SPORTS 2</display-name>
   </channel>
@@ -31018,6 +31246,10 @@
   <programme channel="LCH3320.cl" start="20260810190000 -0400" stop="20260810200000 -0400">
     <title>Rugby Time</title>
     <desc>Toda la información del mundo del rugby.</desc>
+  </programme>
+  <programme channel="LCH3320.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Cuerpo técnico</title>
+    <desc>Opiniones, debates, anécdotas, risas y los mejores invitados para saber todo sobre el fútbol. Un espacio para sentirse entre amigos, pero del otro lado de la pantalla.</desc>
   </programme>
   <programme channel="LCH3320.cl" start="20260810143000 -0400" stop="20260810160000 -0400">
     <title>La cocina del fútbol</title>
@@ -31492,6 +31724,10 @@
   <programme channel="LCH3322.cl" start="20260809124500 -0400" stop="20260809134500 -0400">
     <title>Parques nacionales de Estados Unidos : Yellowstone</title>
     <desc>En este programa se conocen los parques nacionales más célebres de Estados Unidos, con sus impresionantes paisajes que fascinan a millones de habitantes.</desc>
+  </programme>
+  <programme channel="LCH3322.cl" start="20260810195900 -0400" stop="20260810210100 -0400">
+    <title>Contrabandistas con Mariana Van Zeller : Autos robados</title>
+    <desc>Mariana rastrea una ruta de contrabando de automóviles robados desde Estados Unidos hasta África Occidental.</desc>
   </programme>
   <channel id="LCH3329.cl">
     <display-name>DISNEY JUNIOR</display-name>
@@ -32024,6 +32260,10 @@
     <title>Bluey : La isla alfombra; La estética; Geco pegajoso</title>
     <desc>Bluey y Bingo pretenden vivir en una isla desierta en su patio trasero. Bluey y Bingo juegan a la peluquería y atienden a su madre y su padre. Bluey y Bingo se niegan a irse hasta que un geco de goma pegajoso cae del techo.</desc>
   </programme>
+  <programme channel="LCH3329.cl" start="20260810200000 -0400" stop="20260810202300 -0400">
+    <title>Bluey : La isla alfombra; La estética; Geco pegajoso</title>
+    <desc>Bluey y Bingo pretenden vivir en una isla desierta en su patio trasero. Bluey y Bingo juegan a la peluquería y atienden a su madre y su padre. Bluey y Bingo se niegan a irse hasta que un geco de goma pegajoso cae del techo.</desc>
+  </programme>
   <programme channel="LCH3329.cl" start="20260808053200 -0400" stop="20260808060000 -0400">
     <title>Vampirina</title>
     <desc>Una joven chica vampira se enfrenta a las alegrías y dificultades de ser la chica nueva en la ciudad, cuando su familia se muda de Transilvania a Pensilvania.</desc>
@@ -32206,6 +32446,10 @@
   <programme channel="LCH3337.cl" start="20260810190000 -0400" stop="20260810200000 -0400">
     <title>Telenoche</title>
     <desc>El noticiero más audaz, verídico y reconocido por su rigor periodístico, que suma información y opinión con el aporte de tecnología audiovisual.</desc>
+  </programme>
+  <programme channel="LCH3337.cl" start="20260810200000 -0400" stop="20260810213000 -0400">
+    <title>Es mi sueño</title>
+    <desc>En busca de la nueva estrella que brille en todo el país y que, con su talento e historia, conmueva a todos los argentinos. El objetivo es descubrir esa voz, esa presencia, ese artista capaz de trascender la pantalla y conquistar corazones.</desc>
   </programme>
   <programme channel="LCH3337.cl" start="20260808163000 -0400" stop="20260808203000 -0400">
     <title>Un sol para los chicos 2026</title>
@@ -32474,6 +32718,10 @@
     <desc>Cobertura de toda la jornada previa y postpartido de los encuentros del fútbol argentino.</desc>
   </programme>
   <programme channel="LCH3349.cl" start="20260810173000 -0400" stop="20260810174500 -0400">
+    <title>Matchday</title>
+    <desc>Cobertura de toda la jornada previa y postpartido de los encuentros del fútbol argentino.</desc>
+  </programme>
+  <programme channel="LCH3349.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
     <title>Matchday</title>
     <desc>Cobertura de toda la jornada previa y postpartido de los encuentros del fútbol argentino.</desc>
   </programme>
@@ -34714,6 +34962,10 @@
     <title>Mundo Bita - Imagine-se : Pedir Desculpas</title>
     <desc>En el Mundo de Bita, Pepe molesta a Pipa con sus travesuras; en el Planeta Tierra, Lila y Tito se pelean por el muñeco Billy; en el Mundo de la Imaginación, Bita ayuda a Tito a reflexionar y a encontrar una solución a un problema.</desc>
   </programme>
+  <programme channel="LCH3353.cl" start="20260810200200 -0400" stop="20260810200900 -0400">
+    <title>Mundo Bita - Imagine-se : Pedir Desculpas</title>
+    <desc>En el Mundo de Bita, Pepe molesta a Pipa con sus travesuras; en el Planeta Tierra, Lila y Tito se pelean por el muñeco Billy; en el Mundo de la Imaginación, Bita ayuda a Tito a reflexionar y a encontrar una solución a un problema.</desc>
+  </programme>
   <programme channel="LCH3353.cl" start="20260810073000 -0400" stop="20260810074300 -0400">
     <title>Bea y sus bloques : El héroe del bloquetbol</title>
     <desc>Bea y Ty crean un campamento de práctica para Sam cuando se frustra por su nivel de habilidad en blocketball y quiere mejorar.</desc>
@@ -35109,6 +35361,10 @@
     <title>Dale al medio</title>
     <desc>Ariel Rodríguez y su equipo explican la actualidad de la Liga Profesional y las copas internacionales.</desc>
   </programme>
+  <programme channel="LCH3356.cl" start="20260810200000 -0400" stop="20260810213000 -0400">
+    <title>Sportia</title>
+    <desc>Toda la actualidad del fútbol argentino, móviles en cada club, las novedades de último momento y las voces de los protagonistas.</desc>
+  </programme>
   <programme channel="LCH3356.cl" start="20260809211500 -0400" stop="20260809230000 -0400">
     <title>Paso a paso</title>
     <desc>Una manera diferente de vivir la Liga Profesional. Con declaraciones inéditas y los detalles más llamativos dentro y fuera de la cancha.</desc>
@@ -35495,6 +35751,10 @@
   <programme channel="LCH3358.cl" start="20260810054500 -0400" stop="20260810063000 -0400">
     <title>Blue Bloods : La puerta de los pobres</title>
     <desc>Un residente de la sección de ingresos bajos de un edificio de apartamentos de lujo es asesinado. Frank está molesto con un detective que se aprovecha de las lagunas jurídicas.</desc>
+  </programme>
+  <programme channel="LCH3358.cl" start="20260810200000 -0400" stop="20260810205000 -0400">
+    <title>Blue Bloods : Bajo presión</title>
+    <desc>Danny y Báez investigan el asesinato de tres líderes de una comunidad en un caso de discriminación y de crimen motivado por el odio. Linda decide llevar una pistola después de haber sido asaltada.</desc>
   </programme>
   <channel id="LCH3364.cl">
     <display-name>DISCOVERY CHANNEL</display-name>
@@ -36106,6 +36366,10 @@
     <title>El color que cayó del cielo</title>
     <desc>Campo del cielo en Argentina tuvo hace miles de años una lluvia de meteoritos. La gente acude a la zona en busca de su parte del botín, como el mayor coleccionista de meteoritos del mundo Robert Haag. Trata del expolio y la insensatez humana.</desc>
   </programme>
+  <programme channel="LCH3369.cl" start="20260810200000 -0400" stop="20260810220000 -0400">
+    <title>El círculo</title>
+    <desc>David recibe una visita inesperada de dos vecinos después de mudarse a su nuevo apartamento. Pero lo que al principio parece una simple llamada de cortesía, pronto se revela como algo más siniestro.</desc>
+  </programme>
   <channel id="LCH3802.cl">
     <display-name>UNIVERSAL CHANNEL</display-name>
   </channel>
@@ -36424,6 +36688,10 @@
   <programme channel="LCH3802.cl" start="20260808191000 -0400" stop="20260808200000 -0400">
     <title>Chicago P.D. : El puesto de control</title>
     <desc>Cuando un barman recibe una bala destinada a Halstead, la recompensa por él se hace más real; después de una tensa interacción, Platt y Nadia llegan a un entendimiento.</desc>
+  </programme>
+  <programme channel="LCH3802.cl" start="20260810200000 -0400" stop="20260810205000 -0400">
+    <title>Chicago Med : Herraduras y granadas de mano</title>
+    <desc>Lenox y Frost reciben una solicitud inusual de los padres de un paciente con soporte vital. Ripley y Charles trabajan con un hombre que no recuerda quién es.</desc>
   </programme>
   <programme channel="LCH3802.cl" start="20260808073000 -0400" stop="20260808082000 -0400">
     <title>Chicago Med : En figurillas</title>
@@ -36790,6 +37058,10 @@
   <programme channel="LCH3869.cl" start="20260810160000 -0400" stop="20260810170000 -0400">
     <title>Nano</title>
     <desc>Manuel "Nano" Espada lleva una doble vida: de día dirige un parque acuático y de noche es ladrón de guante blanco. Nano conoce a Camila, una joven que perdió la memoria y el habla, y de la cual poco a poco se va enamorando.</desc>
+  </programme>
+  <programme channel="LCH3869.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Guapas</title>
+    <desc>La historia de cinco mujeres quienes se conocen luego de la quiebra de un banco, lo que provoca un cambio emocional, económico y afectivo en sus vidas.</desc>
   </programme>
   <channel id="LCH3887.cl">
     <display-name>AMC</display-name>
@@ -38616,6 +38888,10 @@
     <title>El Mundialito</title>
     <desc>Programa sobre los seleccionados de fútbol de talla baja en el marco de la Copa América de Talla Baja.</desc>
   </programme>
+  <programme channel="LCH3899.cl" start="20260810200000 -0400" stop="20260810201500 -0400">
+    <title>De clubes y potreros</title>
+    <desc>Una serie de microprogramas animados que narran la historia de los clubes del fútbol argentino. Instantes impregnados de emoción, tenacidad y, sobre todo, pasión por el juego.</desc>
+  </programme>
   <programme channel="LCH3899.cl" start="20260808023000 -0400" stop="20260808030000 -0400">
     <title>Espíritu de Equipo</title>
     <desc>Un programa que presenta las experiencias personales de atletas discapacitados de diferentes disciplinas deportivas. Los mismos protagonistas narran de qué se tratan los deportes adaptados, sus reglas y los lugares de entrenamiento.</desc>
@@ -38956,6 +39232,10 @@
     <desc>Toda la actualidad y últimas novedades de las series favoritas del público.</desc>
   </programme>
   <programme channel="LCH3900.cl" start="20260810133700 -0400" stop="20260810143200 -0400">
+    <title>Rock Story</title>
+    <desc>La trayectoria del roquero Guilherme Santiago, un músico muy importante en la década de los 90. Una historia ambientada en Río y cargada de amor y música.</desc>
+  </programme>
+  <programme channel="LCH3900.cl" start="20260810200000 -0400" stop="20260810205500 -0400">
     <title>Rock Story</title>
     <desc>La trayectoria del roquero Guilherme Santiago, un músico muy importante en la década de los 90. Una historia ambientada en Río y cargada de amor y música.</desc>
   </programme>
@@ -40180,6 +40460,10 @@
     <title>Blue Bloods : Bajo presión</title>
     <desc>Danny y Báez investigan el asesinato de tres líderes de una comunidad en un caso de discriminación y de crimen motivado por el odio. Linda decide llevar una pistola después de haber sido asaltada.</desc>
   </programme>
+  <programme channel="LCH3984.cl" start="20260810200000 -0400" stop="20260810205000 -0400">
+    <title>Blue Bloods : Bajo presión</title>
+    <desc>Danny y Báez investigan el asesinato de tres líderes de una comunidad en un caso de discriminación y de crimen motivado por el odio. Linda decide llevar una pistola después de haber sido asaltada.</desc>
+  </programme>
   <programme channel="LCH3984.cl" start="20260810024000 -0400" stop="20260810033000 -0400">
     <title>Blue Bloods : El pecado de los padres</title>
     <desc>Frank busca pruebas que inculpen al sospechoso del asesinato de un policía. Danny y Báez investigan las muertes de varias estrellas del cine para adultos.</desc>
@@ -40866,6 +41150,10 @@
     <title>El fantasma de Elena</title>
     <desc>Elena descubre la supuesta muerte de su hijo. Eduardo llega para enfrentar a Montecristo y reclamar sus derechos.</desc>
   </programme>
+  <programme channel="LCH3993.cl" start="20260810200000 -0400" stop="20260810205500 -0400">
+    <title>Los miserables : Infierno para el Diablo</title>
+    <desc>Antes de ser trasladado a una cárcel de máxima seguridad, el Diablo amenaza a Liliana. Lucía está pesimista y confunde a Daniel. El nieto de Radamés le muestra lo que consiguió en un teléfono.</desc>
+  </programme>
   <channel id="LCH4005.cl">
     <display-name>TELEFE INTERIOR</display-name>
   </channel>
@@ -41339,6 +41627,10 @@
   <programme channel="LCH6601.cl" start="20260810180000 -0400" stop="20260810190000 -0400">
     <title>El tornillo de Arquímedes</title>
     <desc>Un espacio en el que se indagan misterios, paradigmas, historias increíbles y muchas cosas más.</desc>
+  </programme>
+  <programme channel="LCH6601.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Una cita con el amor</title>
+    <desc>Entrevistas a destacadas personalidades de la música.</desc>
   </programme>
   <channel id="LCH104.cl">
     <display-name>SBT HD</display-name>
@@ -41909,6 +42201,10 @@
     <desc>Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
   <programme channel="LCH123.cl" start="20260810110000 -0400" stop="20260810113000 -0400">
+    <title>Coritiba x Chapecoense - Campeonato Brasileiro : Coritiba x Chapecoense</title>
+    <desc>Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
+  </programme>
+  <programme channel="LCH123.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
     <title>Coritiba x Chapecoense - Campeonato Brasileiro : Coritiba x Chapecoense</title>
     <desc>Vinte equipes disputam, em pontos corridos e 38 rodadas, a Série A do futebol masculino brasileiro.</desc>
   </programme>
@@ -45462,6 +45758,10 @@
     <title>Pet Shop Boys: Inner Sanctum</title>
     <desc>No Royal Opera House, os Pet Shop Boys apresentam sua turnê "Inner Sanctum", uma megaprodução de cenários, luzes e cores. No repertório, além das novas faixas, o duo britânico canta grandes sucessos.</desc>
   </programme>
+  <programme channel="LCH81.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
+    <title>Samba pra Sempre : Fundo de Quintal</title>
+    <desc>Dudu recebe o grupo Fundo de Quintal, que marcou época, revelou talentos e influenciou todas as gerações posteriores.</desc>
+  </programme>
   <programme channel="LCH81.cl" start="20260808124000 -0400" stop="20260808131300 -0400">
     <title>Fatboy Slim</title>
     <desc>Show do DJ britânico Fatboy Slim, realizado em Brighton, na Inglaterra, em 2012, no evento The Big Beach Bootique. A apresentação contou com mais de 40 mil pessoas e um telão de LED de 600 metros quadrados.</desc>
@@ -46228,6 +46528,10 @@
     <title>Cultura Livre : Bruna Lucchesi</title>
     <desc>Com foco na nova música brasileira, o programa recebe cantores e bandas em seu estúdio. Além das apresentações, os artistas falam sobre suas carreiras e respondem perguntas da audiência.</desc>
   </programme>
+  <programme channel="LCH930.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Jornal da Cultura</title>
+    <desc>As principais notícias do Brasil e do mundo, sempre com comentários de especialistas.</desc>
+  </programme>
   <programme channel="LCH930.cl" start="20260808090500 -0400" stop="20260808091500 -0400">
     <title>Histórias Atrás da Porta : Um Guerreiro Guarani</title>
     <desc>Anita se muda para a casa da avó e descobre que sua família tem o poder de viajar no tempo. Agora, com seus dois melhores amigos, ela precisa reescrever a história e resgatar sua ancestralidade para salvar sua família e o mundo inteiro.</desc>
@@ -46514,6 +46818,10 @@
   <programme channel="LCH95.cl" start="20260810185500 -0400" stop="20260810200000 -0400">
     <title>Jornal da Record</title>
     <desc>Reportagens e séries especiais sobre os mais variados assuntos de interesse da população.</desc>
+  </programme>
+  <programme channel="LCH95.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>Coração de Mãe</title>
+    <desc>Karsu vive um casamento infeliz e enfrenta uma rotina sufocante como mãe de três filhos. Sua vida muda radicalmente quando Kuzey desaparece por três anos. Ao retornar, Karsu tenta reconquistar o amor do filho, enquanto descobre a traição do marido.</desc>
   </programme>
   <programme channel="LCH95.cl" start="20260808213000 -0400" stop="20260809000000 -0400">
     <title>Confronto no Pavilhão 99</title>
