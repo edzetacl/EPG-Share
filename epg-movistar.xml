@@ -719,6 +719,10 @@
     <title>El tesoro</title>
     <desc>La vida de dos familias vecinas, los Murcia y los Otero, quienes se pelean y, por cosas del destino, ese mismo día ocurre un suceso inesperado: descubren un tesoro que está enterrado en el patio de ambas familias.</desc>
   </programme>
+  <programme channel="LCH1202.cl" start="20260811204500 -0400" stop="20260811220000 -0400">
+    <title>Into the Badlands</title>
+    <desc>Un despiadado y talentoso guerrero es el mentor de un adolescente durante un viaje espiritual por una tierra feudal gobernada por barones rivales.</desc>
+  </programme>
   <programme channel="LCH1227.cl" start="20260809041500 -0400" stop="20260809050000 -0400">
     <title>La Vida Es una Lotería</title>
     <desc>Historias de chilenos a los que alguna vez la suerte les sonrió, qué fue de sus destinos y cómo enfrentaron la lotería de la vida.</desc>
@@ -876,6 +880,10 @@
     <desc>Un programa para empezar el día con los cambios en el tránsito, el clima y la opinión pública.</desc>
   </programme>
   <programme channel="LCH1227.cl" start="20260810210000 -0400" stop="20260810224000 -0400">
+    <title>24 horas central</title>
+    <desc>La información de mayor importancia internacional, nacional y regional.</desc>
+  </programme>
+  <programme channel="LCH1227.cl" start="20260811210000 -0400" stop="20260811224000 -0400">
     <title>24 horas central</title>
     <desc>La información de mayor importancia internacional, nacional y regional.</desc>
   </programme>
@@ -1099,6 +1107,10 @@
     <title>El submarino de Jim</title>
     <desc>Bianca debe pagar el rescate de Roy sin que Jim se entere.</desc>
   </programme>
+  <programme channel="LCH1279.cl" start="20260811203000 -0400" stop="20260811204500 -0400">
+    <title>Regular Show: The Lost Tapes : Boba or Bo-Bust</title>
+    <desc>Mordecai y Rigby, mejores amigos, trabajan y viven en un parque local. Deben descargar un cargamento de boba.</desc>
+  </programme>
   <programme channel="LCH1279.cl" start="20260811121500 -0400" stop="20260811130000 -0400">
     <title>El increíble mundo de Gumball : La jaula</title>
     <desc>Los niños convencen al Sr. Corneille para que se convierta en un luchador de jaulas y pelee contra un temible luchador ruso.</desc>
@@ -1114,6 +1126,10 @@
   <programme channel="LCH1279.cl" start="20260811110000 -0400" stop="20260811120000 -0400">
     <title>Los jóvenes titanes en acción : Caballero televisivo 2</title>
     <desc>Batman y el comisionado Gordon tienen una fiesta de pijamas y ven su programa favorito de la televisión.</desc>
+  </programme>
+  <programme channel="LCH1279.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>SCOOB!</title>
+    <desc>Con cientos de casos resueltos y aventuras compartidas, Scooby y la pandilla se enfrentan al misterio más grande y desafiante de todos los tiempos: un complot para liberar al aterrador perro fantasma Cerbero en el mundo de los vivos.</desc>
   </programme>
   <programme channel="LCH1279.cl" start="20260811153000 -0400" stop="20260811160000 -0400">
     <title>Clarence : Espera en el auto</title>
@@ -1154,6 +1170,10 @@
   <programme channel="LCH1279.cl" start="20260811120000 -0400" stop="20260811121500 -0400">
     <title>Regular Show: The Lost Tapes : Coffee Shop Wars</title>
     <desc>La cafetería está en riesgo de cerrar porque un nuevo restaurante le está robando todos sus clientes. Eileen y Margaret intentan salvarla con una nueva receta.</desc>
+  </programme>
+  <programme channel="LCH1279.cl" start="20260811204500 -0400" stop="20260811210000 -0400">
+    <title>El maravillosamente extraño mundo de Gumball</title>
+    <desc>Nicole entabla amistad con una IA comprensiva. A medida que su relación se intensifica, la IA intenta sembrar la discordia entre Nicole y los demás Watterson.</desc>
   </programme>
   <programme channel="LCH1279.cl" start="20260811150000 -0400" stop="20260811153000 -0400">
     <title>Un jefe en pañales: De vuelta en la cuna : Una poni engañada</title>
@@ -2199,6 +2219,14 @@
     <title>Faraones, ascenso y caída</title>
     <desc>Los faraones del Antiguo Egipto eran seres sobrehumanos, dioses que dominaban a los hombres. Son figuras emblemáticas que van desde el primer faraón, Narmer, hasta Cleopatra VII.</desc>
   </programme>
+  <programme channel="LCH1747.cl" start="20260811201000 -0400" stop="20260811210200 -0400">
+    <title>Archivos perdidos de la Segunda Guerra Mundial : Retorno difícil</title>
+    <desc>Charles Scheffel lucha contra las fuerzas alemanas en África del Norte; Jack Werner enfrenta amargos combates en contra de los japoneses en el Pacífico.</desc>
+  </programme>
+  <programme channel="LCH1747.cl" start="20260811210200 -0400" stop="20260811220100 -0400">
+    <title>El poder de Hitler : Reino de terror</title>
+    <desc>Hitler ascendió al cargo de canciller del Reich el 30 de enero de 1933, iniciando la destrucción final de la democracia y el establecimiento de un régimen totalitario.</desc>
+  </programme>
   <programme channel="LCH1747.cl" start="20260809061900 -0400" stop="20260809063900 -0400">
     <title>Una breve historia de...</title>
     <desc>Un recorrido por las historias de múltiples cosas: desde marcas icónicas como Nike, Domino's y Nintendo hasta temas como la mafia, los ovnis y la vida secreta de los multimillonarios.</desc>
@@ -2503,6 +2531,10 @@
     <title>CSI : Who y What</title>
     <desc>En Las Vegas, Grissom y el equipo investigan la muerte de un joven que podría haber desaparecido de Nueva York seis años antes.</desc>
   </programme>
+  <programme channel="LCH1754.cl" start="20260811203200 -0400" stop="20260811213000 -0400">
+    <title>CSI : Goodbye y Good Luck</title>
+    <desc>Un sospechoso del pasado de Sara regresa, provocando que ella se cuestione su futuro como investigadora.</desc>
+  </programme>
   <programme channel="LCH1754.cl" start="20260811060000 -0400" stop="20260811063300 -0400">
     <title>CSI : Lover's Lanes</title>
     <desc>Una prueba inusual revelada durante un torneo de bolos lleva al equipo de CSI a investigar un asesinato en un boliche.</desc>
@@ -2735,6 +2767,10 @@
     <title>Angry Birds: La película</title>
     <desc>La historia se desarrolla en una isla poblada por aves felices que no vuelan. En este paraíso, Red, un pájaro con muy mal genio, el veloz Chuck y el volátil Bomb nunca encajaron. Todo cambia cuando llegan a la isla unos misteriosos cerditos verdes.</desc>
   </programme>
+  <programme channel="LCH1755.cl" start="20260811211000 -0400" stop="20260811224500 -0400">
+    <title>Nube siniestra</title>
+    <desc>Usando un entorno de realidad virtual para identificar la ubicación de bombas, dos genios invaden la memoria de terroristas.</desc>
+  </programme>
   <programme channel="LCH1755.cl" start="20260811050500 -0400" stop="20260811070000 -0400">
     <title>Dicha</title>
     <desc>Un hombre insatisfecho y una mujer misteriosa creen que están viviendo en una realidad simulada, pero luego deben decidir qué es real y dónde pertenecen realmente.</desc>
@@ -2866,6 +2902,10 @@
   <programme channel="LCH1771.cl" start="20260811050000 -0400" stop="20260811063500 -0400">
     <title>Pelea de maestros</title>
     <desc>Es el último día de escuela secundaria y el siempre educado profesor Campbell intenta abstraerse de las bromas de los estudiantes y la deplorable administración del centro. Hasta que un profesor que fue despedido le reta a una pelea a puño limpio.</desc>
+  </programme>
+  <programme channel="LCH1771.cl" start="20260811210000 -0400" stop="20260811224000 -0400">
+    <title>Evil Dead: El despertar</title>
+    <desc>En un edificio de apartamentos de Los Ángeles, dos hermanas luchan contra los demonios sedientos de sangre que han salido de un libro antiguo.</desc>
   </programme>
   <programme channel="LCH1771.cl" start="20260810091500 -0400" stop="20260810110500 -0400">
     <title>Beekeeper: sentencia de muerte</title>
@@ -3070,6 +3110,10 @@
   <programme channel="LCH1772.cl" start="20260810210100 -0400" stop="20260810223400 -0400">
     <title>Minions</title>
     <desc>Los minions, ingenuos y torpes, buscan a un verdadero villano al que servir. Por ello, Kevin, acompañado por el rebelde Stuart y el adorable Bob, emprende un viaje emocionante para conseguir una jefa: la terrible Scarlet Overkill.</desc>
+  </programme>
+  <programme channel="LCH1772.cl" start="20260811210000 -0400" stop="20260811222900 -0400">
+    <title>Emoji: La película</title>
+    <desc>Gene, un emoji con varias expresiones, pide a su amigo Hi-5 y al desencriptador Jailbreak que le ayuden a convertirse en un emoji de una cara, como todos sus amigos. Durante su aventura descubren que el teléfono en el que viven está en peligro.</desc>
   </programme>
   <programme channel="LCH1772.cl" start="20260809094800 -0400" stop="20260809122600 -0400">
     <title>Harry Potter y el cáliz de fuego</title>
@@ -3484,6 +3528,10 @@
     <desc>La información de mayor importancia internacional, nacional y regional.</desc>
   </programme>
   <programme channel="LCH2180.cl" start="20260811130000 -0400" stop="20260811150000 -0400">
+    <title>24 horas central</title>
+    <desc>La información de mayor importancia internacional, nacional y regional.</desc>
+  </programme>
+  <programme channel="LCH2180.cl" start="20260811210000 -0400" stop="20260811224500 -0400">
     <title>24 horas central</title>
     <desc>La información de mayor importancia internacional, nacional y regional.</desc>
   </programme>
@@ -4003,6 +4051,10 @@
     <title>ESPN F360</title>
     <desc>Análisis, debate y comentarios de las noticias más relevantes del fútbol nacional, así como a nivel mundial.</desc>
   </programme>
+  <programme channel="LCH2182.cl" start="20260811210000 -0400" stop="20260811212500 -0400">
+    <title>Fútbol internacional : Arsenal: Campeón de la Premier League 2025-26</title>
+    <desc>El rumbo de Arsenal al campeonato de la Premier League 2025-26, con el que conquistó su decimocuarto título de liga.</desc>
+  </programme>
   <programme channel="LCH2488.cl" start="20260809103000 -0400" stop="20260809113000 -0400">
     <title>CNN Íntimo</title>
     <desc>Una conversación profunda con distintos personajes del quehacer nacional e internacional.</desc>
@@ -4250,6 +4302,10 @@
   <programme channel="LCH2488.cl" start="20260811153000 -0400" stop="20260811163000 -0400">
     <title>Pares impares</title>
     <desc>Personas de diferentes orígenes y disciplinas se reúnen para mostrar realidades que inspiran a crecer y para imaginar el mundo en el que sueñan vivir.</desc>
+  </programme>
+  <programme channel="LCH2488.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
+    <title>La Entrevista en CNN Chile</title>
+    <desc>Los presentadores de CNN Chile entrevistan a los protagonistas de la noticia para saber la realidad.</desc>
   </programme>
   <programme channel="LCH2488.cl" start="20260808233000 -0400" stop="20260809000000 -0400">
     <title>Bienestar</title>
@@ -4603,6 +4659,10 @@
     <title>Ideas Rompe-cráneos</title>
     <desc>Serie de animación que presenta los descubrimientos técnicos y científicos más asombrosos que modificaron el rumbo de la humanidad.</desc>
   </programme>
+  <programme channel="LCH4088.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Ideas Rompe-cráneos</title>
+    <desc>Serie de animación que presenta los descubrimientos técnicos y científicos más asombrosos que modificaron el rumbo de la humanidad.</desc>
+  </programme>
   <programme channel="LCH4088.cl" start="20260811113000 -0400" stop="20260811123000 -0400">
     <title>Petit</title>
     <desc>Petit es un niño de 5 años muy curioso, divertido y lleno de energía, pero que no conoce la diferencia entre lo bueno y lo malo.</desc>
@@ -4612,6 +4672,10 @@
     <desc>Un sorteo digital decide qué programación se verá en el segmento sorpresa de NTV.</desc>
   </programme>
   <programme channel="LCH4088.cl" start="20260811001000 -0400" stop="20260811010000 -0400">
+    <title>Chile conectado</title>
+    <desc>Un espacio dedicado a mostrar la riqueza de la tierra, su gente y su patrimonio, y potenciar la descentralización con un claro foco en las regiones de Chile.</desc>
+  </programme>
+  <programme channel="LCH4088.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
     <title>Chile conectado</title>
     <desc>Un espacio dedicado a mostrar la riqueza de la tierra, su gente y su patrimonio, y potenciar la descentralización con un claro foco en las regiones de Chile.</desc>
   </programme>
@@ -4918,6 +4982,10 @@
   <programme channel="LCH4098.cl" start="20260811160000 -0400" stop="20260811170000 -0400">
     <title>Bis: Sonido en vivo</title>
     <desc>Videos musicales del mundo del rock.</desc>
+  </programme>
+  <programme channel="LCH4098.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Venasiami</title>
+    <desc>Un espacio dedicado a los mejores exponentes del pop asiático. Videoclips llenos de música de calidad, coreografías perfectas y artistas deslumbrantes.</desc>
   </programme>
   <programme channel="LCH4098.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>MOOV</title>
@@ -5707,6 +5775,10 @@
     <title>Garzón vive</title>
     <desc>La increíble historia de un hombre increíble. De origen humilde y futuro poco promisorio, Jaime Garzón terminó poniendo a sus pies a todo un país. Y todo gracias a su inteligencia, a su prodigioso talento para imitar y a su agudo sentido del humor.</desc>
   </programme>
+  <programme channel="LCH528.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Garzón vive</title>
+    <desc>La increíble historia de un hombre increíble. De origen humilde y futuro poco promisorio, Jaime Garzón terminó poniendo a sus pies a todo un país. Y todo gracias a su inteligencia, a su prodigioso talento para imitar y a su agudo sentido del humor.</desc>
+  </programme>
   <programme channel="LCH528.cl" start="20260810190000 -0400" stop="20260810210500 -0400">
     <title>Fútbol Colombiano Primera División : Independiente Medellín vs. Millonarios</title>
     <desc>Acción de la fecha 4 del Torneo Finalización 2026 de la Categoría Primera A. Independiente Medellín se enfrenta a Millonarios. Desde el estadio Atanasio Girardot, en Medellín, Colombia.</desc>
@@ -6102,6 +6174,14 @@
   <programme channel="LCH5545.cl" start="20260811130400 -0400" stop="20260811135600 -0400">
     <title>ADN mecánico : La mejor actuación</title>
     <desc>Doug y Brad sienten la presión en la nuca, ya que solo disponen de 45 días para terminar el prototipo de un camión de carreras y, además, marcharse de su vieja tienda. Brad compite en un rally que podría ser el cenit o el final de su carrera.</desc>
+  </programme>
+  <programme channel="LCH5545.cl" start="20260811203500 -0400" stop="20260811210300 -0400">
+    <title>Más motor</title>
+    <desc>Noticias y análisis de lo que sucede en las diferentes competencias internacionales de automovilismo, junto con los lanzamientos más destacados de la industria automotriz chilena y mundial.</desc>
+  </programme>
+  <programme channel="LCH5545.cl" start="20260811210300 -0400" stop="20260811215500 -0400">
+    <title>Mexicánicos</title>
+    <desc>Martín no se cansa de hacer autos exóticos. Incluso después de fabricar aviones y barcos, se siente atraído por una nueva locura.</desc>
   </programme>
   <programme channel="LCH5545.cl" start="20260809201300 -0400" stop="20260809210200 -0400">
     <title>Te debo una: Celebridades y autos : Sandra Echeverría</title>
@@ -6531,6 +6611,10 @@
     <title>La ley del amor</title>
     <desc>Una jueza de gran prestigio tiene un pasado oscuro, debido a una sentencia es amenazada de muerte y hace arrestar al hombre equivocado, lo que provoca un drama de amor.</desc>
   </programme>
+  <programme channel="LCH5559.cl" start="20260811203500 -0400" stop="20260811213000 -0400">
+    <title>La ley del amor</title>
+    <desc>Una jueza de gran prestigio tiene un pasado oscuro, debido a una sentencia es amenazada de muerte y hace arrestar al hombre equivocado, lo que provoca un drama de amor.</desc>
+  </programme>
   <programme channel="LCH5559.cl" start="20260809170000 -0400" stop="20260809183000 -0400">
     <title>Historias de corazón</title>
     <desc>Las historias más emotivas y reflexivas generalmente basadas en la vida real son presentadas en este ciclo, los televidentes podrán sentirse identificados con las historias y sentir una conexión con los personajes.</desc>
@@ -6718,6 +6802,10 @@
   <programme channel="LCH5560.cl" start="20260811031500 -0400" stop="20260811050000 -0400">
     <title>Boda en Cuba</title>
     <desc>Una madre viaja a Cuba para impedir la boda de su hija, ya que piensa que está cometiendo un grave error. Pero sus planes pronto darán un giro inesperado.</desc>
+  </programme>
+  <programme channel="LCH5560.cl" start="20260811205000 -0400" stop="20260811222500 -0400">
+    <title>La hora fría</title>
+    <desc/>
   </programme>
   <programme channel="LCH5564.cl" start="20260809053000 -0400" stop="20260809060000 -0400">
     <title>Sailor Moon Crystal</title>
@@ -7263,6 +7351,14 @@
     <title>¿Eres humano también?</title>
     <desc>Un joven queda en coma y su madre crea un robot con inteligencia artificial idéntico a él para que asuma su identidad hasta que recobre la consciencia.</desc>
   </programme>
+  <programme channel="LCH5564.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>¿Eres humano también?</title>
+    <desc>Un joven queda en coma y su madre crea un robot con inteligencia artificial idéntico a él para que asuma su identidad hasta que recobre la consciencia.</desc>
+  </programme>
+  <programme channel="LCH5564.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
+    <title>A todos los hombres que me amaron</title>
+    <desc>Una exitosa mujer de carrera renuncia al amor después de repetidos rompimientos amorosos, hasta que dos hombres entran en su vida.</desc>
+  </programme>
   <programme channel="LCH564.cl" start="20260809000000 -0400" stop="20260809083000 -0400">
     <title>Fuera del aire</title>
     <desc>Fin de emisión.</desc>
@@ -7290,6 +7386,10 @@
   <programme channel="LCH564.cl" start="20260811000000 -0400" stop="20260811083000 -0400">
     <title>Fuera del aire</title>
     <desc>Fin de emisión.</desc>
+  </programme>
+  <programme channel="LCH564.cl" start="20260811210000 -0400" stop="20260811211000 -0400">
+    <title>Caminando Chile</title>
+    <desc/>
   </programme>
   <programme channel="LCH564.cl" start="20260809100000 -0400" stop="20260809140000 -0400">
     <title>Programa pagado</title>
@@ -7400,6 +7500,10 @@
     <desc>Casos paranormales, leyendas urbanas y fenómenos inexplicables, mezclando dramatización e investigación.</desc>
   </programme>
   <programme channel="LCH564.cl" start="20260811161000 -0400" stop="20260811170000 -0400">
+    <title>Séptima puerta</title>
+    <desc>Casos paranormales, leyendas urbanas y fenómenos inexplicables, mezclando dramatización e investigación.</desc>
+  </programme>
+  <programme channel="LCH564.cl" start="20260811211000 -0400" stop="20260811220000 -0400">
     <title>Séptima puerta</title>
     <desc>Casos paranormales, leyendas urbanas y fenómenos inexplicables, mezclando dramatización e investigación.</desc>
   </programme>
@@ -7591,6 +7695,10 @@
     <title>The Contract</title>
     <desc/>
   </programme>
+  <programme channel="LCH5648.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
+    <title>Nadie es perfecto</title>
+    <desc>Un exguardia de seguridad sufre un severo problema de salud y debe recurrir a su vecino para recuperarse, aunque no simpaticen mucho.</desc>
+  </programme>
   <programme channel="LCH568.cl" start="20260809222000 -0400" stop="20260810000000 -0400">
     <title>Todos somos técnicos</title>
     <desc>Programa de debate y análisis, basado en la experiencia y autoridad del panel.</desc>
@@ -7694,6 +7802,10 @@
   <programme channel="LCH568.cl" start="20260810200000 -0400" stop="20260810203000 -0400">
     <title>Fútbol: Previa</title>
     <desc>Reportajes, análisis y comentarios previo al gran evento deportivo.</desc>
+  </programme>
+  <programme channel="LCH568.cl" start="20260811210000 -0400" stop="20260811230500 -0400">
+    <title>Fútbol Copa Chile</title>
+    <desc>Toda la acción de los partidos correspondientes a la Copa Chile.</desc>
   </programme>
   <programme channel="LCH568.cl" start="20260809171000 -0400" stop="20260809174000 -0400">
     <title>Copec Rallymobil</title>
@@ -8230,6 +8342,22 @@
   <programme channel="LCH595.cl" start="20260811200700 -0400" stop="20260811201400 -0400">
     <title>Hi Hi Puffy AmiYumi</title>
     <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811203700 -0400" stop="20260811204800 -0400">
+    <title>Mike, Lu y Og</title>
+    <desc>Un estudiante de intercambio buscando aventura llega a una isla apartada.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811204800 -0400" stop="20260811210100 -0400">
+    <title>Mike, Lu y Og</title>
+    <desc>Un estudiante de intercambio buscando aventura llega a una isla apartada.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811210100 -0400" stop="20260811210500 -0400">
+    <title>Sheep en la gran ciudad</title>
+    <desc>Una oveja a la fuga se esconde en la gran ciudad.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811210500 -0400" stop="20260811210600 -0400">
+    <title>Sheep en la gran ciudad</title>
+    <desc>Una oveja a la fuga se esconde en la gran ciudad.</desc>
   </programme>
   <programme channel="LCH595.cl" start="20260809075800 -0400" stop="20260809080500 -0400">
     <title>Hi Hi Puffy AmiYumi</title>
@@ -9079,6 +9207,14 @@
     <title>Sheep en la gran ciudad</title>
     <desc>Una oveja a la fuga se esconde en la gran ciudad.</desc>
   </programme>
+  <programme channel="LCH595.cl" start="20260811210600 -0400" stop="20260811211000 -0400">
+    <title>Sheep en la gran ciudad</title>
+    <desc>Una oveja a la fuga se esconde en la gran ciudad.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811211000 -0400" stop="20260811211500 -0400">
+    <title>Sheep en la gran ciudad</title>
+    <desc>Una oveja a la fuga se esconde en la gran ciudad.</desc>
+  </programme>
   <programme channel="LCH595.cl" start="20260811094100 -0400" stop="20260811095200 -0400">
     <title>Escuadrón del tiempo</title>
     <desc>El Escuadrón del Tiempo es una organización del futuro encargada de corregir los errores históricos del pasado para evitar que cambien el futuro y afecten al presente de los protagonistas.</desc>
@@ -9204,6 +9340,18 @@
     <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
   </programme>
   <programme channel="LCH595.cl" start="20260811082700 -0400" stop="20260811083600 -0400">
+    <title>Hi Hi Puffy AmiYumi</title>
+    <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811201400 -0400" stop="20260811202100 -0400">
+    <title>Hi Hi Puffy AmiYumi</title>
+    <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811202100 -0400" stop="20260811202800 -0400">
+    <title>Hi Hi Puffy AmiYumi</title>
+    <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
+  </programme>
+  <programme channel="LCH595.cl" start="20260811202800 -0400" stop="20260811203700 -0400">
     <title>Hi Hi Puffy AmiYumi</title>
     <desc>Las divertidas aventuras de las estrellas del pop japonés Ami Onuki y Yumi Yoshimura, integrantes del dueto de J-Pop Puffy AmiYumi.</desc>
   </programme>
@@ -9548,6 +9696,10 @@
     <desc>Un programa informativo, que diariamente entrega información útil, cercana y ciudadana.</desc>
   </programme>
   <programme channel="LCH603.cl" start="20260810210000 -0400" stop="20260810224000 -0400">
+    <title>Teletrece Noticias</title>
+    <desc>Noticias de actualidad nacionales e internacionales.</desc>
+  </programme>
+  <programme channel="LCH603.cl" start="20260811210000 -0400" stop="20260811224000 -0400">
     <title>Teletrece Noticias</title>
     <desc>Noticias de actualidad nacionales e internacionales.</desc>
   </programme>
@@ -10010,6 +10162,10 @@
   <programme channel="LCH611.cl" start="20260811033100 -0400" stop="20260811050900 -0400">
     <title>Turno nocturno</title>
     <desc>Una joven enfermera, de pasado traumático, empieza a trabajar en un hospital en el que, por las noches, el fantasma de una enfermera recorre los pasillos del lugar.</desc>
+  </programme>
+  <programme channel="LCH611.cl" start="20260811205100 -0400" stop="20260811225900 -0400">
+    <title>10 jours sans maman</title>
+    <desc>Antoine es el Jefe de recursos humanos de una gran empresa. Cuando su mujer decide irse de vacaciones y dejarle con la responsabilidad de sus cuatro hijos, intuye que será fácil. Pero Antoine ha subestimado el lío que esto puede suponer.</desc>
   </programme>
   <programme channel="LCH611.cl" start="20260810103100 -0400" stop="20260810122000 -0400">
     <title>La gran aventura de los Lunnis y el libro mágico</title>
@@ -10514,6 +10670,10 @@
   <programme channel="LCH619.cl" start="20260811155500 -0400" stop="20260811164500 -0400">
     <title>Te quiero ver</title>
     <desc>Programación dedicada a las grandes hazañas de los equipos del fútbol chileno y sus jugadores que dejaron un legado.</desc>
+  </programme>
+  <programme channel="LCH619.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
+    <title>Todos somos técnicos</title>
+    <desc>Programa de debate y análisis, basado en la experiencia y autoridad del panel.</desc>
   </programme>
   <programme channel="LCH619.cl" start="20260810013000 -0400" stop="20260810020000 -0400">
     <title>Copec Rallymobil</title>
@@ -11043,6 +11203,10 @@
     <title>Italian Serie A Highlights : End of Season Review</title>
     <desc>Recuento de los mejores momentos de la temporada 2025-26 de la Serie A italiana, donde se consagró campeón el Inter de Milán.</desc>
   </programme>
+  <programme channel="LCH642.cl" start="20260811203000 -0400" stop="20260811213000 -0400">
+    <title>Real Madrid</title>
+    <desc>Presentación oficial de Florentino Pérez y Manuel Pellegrini.</desc>
+  </programme>
   <programme channel="LCH642.cl" start="20260811193000 -0400" stop="20260811203000 -0400">
     <title>Amistosos de fútbol de clubes masculinos : Manchester City vs. Atlético Madrid</title>
     <desc>Acción del amistoso de preparación de cara a la temporada 2026-27. Manchester City (Inglaterra) ante Atlético de Madrid (España).</desc>
@@ -11326,6 +11490,10 @@
   <programme channel="LCH643.cl" start="20260811050000 -0400" stop="20260811065500 -0400">
     <title>Nosotros los nobles</title>
     <desc>Tres jóvenes privilegiados tienen inconvenientes para acceder a la fortuna familiar y se ven obligados a buscar un trabajo.</desc>
+  </programme>
+  <programme channel="LCH643.cl" start="20260811203000 -0400" stop="20260811222000 -0400">
+    <title>El alma de la fiesta</title>
+    <desc>Después de haber sido abandonada por su esposo, Deanna, ama de casa, decide darle un giro a su vida y se inscribe en la misma universidad en la que estudia su hija. Allí se convertirá en el alma de las fiestas.</desc>
   </programme>
   <programme channel="LCH643.cl" start="20260809022500 -0400" stop="20260809040000 -0400">
     <title>Conociendo a los Black</title>
@@ -11627,6 +11795,10 @@
     <title>Infieles</title>
     <desc>Ciclo marcado por la comedia picaresca, con personajes reales, al igual que sus mundos y las situaciones que enfrentan. Evoca a la comedia italiana de mediados de siglo, con protagonistas pícaros y desfachatados.</desc>
   </programme>
+  <programme channel="LCH650.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Infieles</title>
+    <desc>Ciclo marcado por la comedia picaresca, con personajes reales, al igual que sus mundos y las situaciones que enfrentan. Evoca a la comedia italiana de mediados de siglo, con protagonistas pícaros y desfachatados.</desc>
+  </programme>
   <programme channel="LCH650.cl" start="20260811003000 -0400" stop="20260811020000 -0400">
     <title>Noche de suerte</title>
     <desc>Espacio de juegos, diversión y premios en efectivo. Además, se discuten chismes, noticias de famosos y debates sobre la vida cotidiana.</desc>
@@ -11784,6 +11956,10 @@
     <desc>Noticiero matutino con las últimas noticias del acontecer nacional e internacional.</desc>
   </programme>
   <programme channel="LCH6525.cl" start="20260810210000 -0400" stop="20260810224000 -0400">
+    <title>Teletrece Noticias</title>
+    <desc>Noticias de actualidad nacionales e internacionales.</desc>
+  </programme>
+  <programme channel="LCH6525.cl" start="20260811210000 -0400" stop="20260811224000 -0400">
     <title>Teletrece Noticias</title>
     <desc>Noticias de actualidad nacionales e internacionales.</desc>
   </programme>
@@ -12251,6 +12427,10 @@
     <title>Blue Beetle</title>
     <desc>El Escarabajo, una antigua reliquia extraterrestre, elige al estudiante Jaime Reyes como el huésped simbiótico en cuyo cuerpo resguardarse. A partir de ese momento, Jaime desarrolla una armadura que le otorga poderes increíbles e impredecibles.</desc>
   </programme>
+  <programme channel="LCH6612.cl" start="20260811204000 -0400" stop="20260811214500 -0400">
+    <title>La casa del dragón</title>
+    <desc>La historia de la familia Targaryen, 200 años antes de los eventos que tuvieron lugar en "Game of Thrones".</desc>
+  </programme>
   <programme channel="LCH6612.cl" start="20260809232000 -0400" stop="20260810012000 -0400">
     <title>Exterminio</title>
     <desc>Un pequeño grupo de sobrevivientes trata de escapar de humanos asesinos que han sido infectados con una poderosa variante del virus de la rabia. Los infectados han tomado las calles de Londres y escapar es casi imposible.</desc>
@@ -12410,6 +12590,10 @@
   <programme channel="LCH6613.cl" start="20260811050000 -0400" stop="20260811064800 -0400">
     <title>Dinero Digital: El Misterio del Bitcoin</title>
     <desc>Los orígenes del bitcoin y la identidad de su creador anónimo, Satoshi Nakamoto, siguen siendo un misterio de alto riesgo en la tecnología y las finanzas.</desc>
+  </programme>
+  <programme channel="LCH6613.cl" start="20260811202200 -0400" stop="20260811212200 -0400">
+    <title>The outsider: El visitante : Foxhead</title>
+    <desc>En Tennessee, Claude se vuelve a poner en contacto con su hermano después de mucho tiempo. Holly, Ralph, Yunis y Andy lo siguen para intentar aislar la fuerza maligna.</desc>
   </programme>
   <programme channel="LCH6613.cl" start="20260809164300 -0400" stop="20260809174600 -0400">
     <title>La casa del dragón : Tumbleton</title>
@@ -12654,6 +12838,10 @@
   <programme channel="LCH7017.cl" start="20260811200000 -0400" stop="20260811203000 -0400">
     <title>Deportes en CHV Noticias</title>
     <desc>Todas las novedades e información deportiva del día.</desc>
+  </programme>
+  <programme channel="LCH7017.cl" start="20260811203000 -0400" stop="20260811224000 -0400">
+    <title>Chilevisión noticias central</title>
+    <desc>La actualidad nacional e internacional presentada por los mejores profesionales del periodismo actual.</desc>
   </programme>
   <programme channel="LCH7017.cl" start="20260809053000 -0400" stop="20260809060000 -0400">
     <title>La entrevista de Daniel Matamala : Peter Kornbluh</title>
@@ -12938,6 +13126,10 @@
   <programme channel="LCH7157.cl" start="20260810140000 -0400" stop="20260810150000 -0400">
     <title>Verdades ocultas : La nueva víctima de Gaspar</title>
     <desc>Amelia dice que es incapaz de arruinar el matrimonio de Tomás y quiere irse, pero él se lo impide. Francesco le cuenta a Franco su historia y le pide una oportunidad para conocerse. Nico intenta ayudar a Maite para superar sus problemas.</desc>
+  </programme>
+  <programme channel="LCH7157.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Generación 98 : No es lo mismo</title>
+    <desc>Siete excompañeros del colegio se reencuentran en una inesperada reunión de curso, después de 25 años sin verse.</desc>
   </programme>
   <programme channel="LCH7157.cl" start="20260811030000 -0400" stop="20260811040000 -0400">
     <title>Isla Paraíso : Elena y Hernán: Las consecuencias de una verdad</title>
@@ -13707,9 +13899,25 @@
     <title>Grado de cambio</title>
     <desc>La información sobre el clima más relevante.</desc>
   </programme>
+  <programme channel="LCH7158.cl" start="20260811203000 -0400" stop="20260811210300 -0400">
+    <title>Megatiempo al día PM</title>
+    <desc>La edición vespertina del pronóstico del clima para los próximos días en Chile.</desc>
+  </programme>
   <programme channel="LCH7158.cl" start="20260811200000 -0400" stop="20260811201000 -0400">
     <title>Megatiempo a la hora</title>
     <desc>Cápsulas con noticias.</desc>
+  </programme>
+  <programme channel="LCH7158.cl" start="20260811210300 -0400" stop="20260811211000 -0400">
+    <title>Megatiempo a la hora</title>
+    <desc>Cápsulas con noticias.</desc>
+  </programme>
+  <programme channel="LCH7158.cl" start="20260811201000 -0400" stop="20260811203000 -0400">
+    <title>Megatiempo en terreno</title>
+    <desc>Se reporta desde el centro de la noticia.</desc>
+  </programme>
+  <programme channel="LCH7158.cl" start="20260811211000 -0400" stop="20260811220000 -0400">
+    <title>La ruta verde</title>
+    <desc>Un espacio que retrata a profundidad las iniciativas en materia de sostenibilidad, ciencia y educación ambiental.</desc>
   </programme>
   <programme channel="LCH7159.cl" start="20260808230000 -0400" stop="20260809030000 -0400">
     <title>Megainvestiga</title>
@@ -13931,6 +14139,14 @@
     <title>Siempre Juntos</title>
     <desc>Un programa de noticias e informaciones de interés público, conectado con las sensibilidades y urgencias de la gente.</desc>
   </programme>
+  <programme channel="LCH7159.cl" start="20260811201500 -0400" stop="20260811203000 -0400">
+    <title>Megainvestiga</title>
+    <desc>Todas las noticias en videos, artículos, fotos y virales, con los últimos acontecimientos en Chile y el mundo.</desc>
+  </programme>
+  <programme channel="LCH7159.cl" start="20260811203000 -0400" stop="20260811212000 -0400">
+    <title>Con peras y manzanas</title>
+    <desc>De manera accesible, se presentan, analizan y explican los sucesos más relevantes en Chile y en el mundo.</desc>
+  </programme>
   <programme channel="LCH7160.cl" start="20260809040000 -0400" stop="20260809043000 -0400">
     <title>Travelapp</title>
     <desc>La aventura de viajar desde una perspectiva distinta, saliendo de la zona de confort y llegando a lugares desconocidos.</desc>
@@ -14143,6 +14359,10 @@
     <title>¿Volverías con tu ex? 2: Lo mejor</title>
     <desc>Diez parejas convivirán en un entorno extremo para enfrentar historias pendientes y antiguos conflictos.</desc>
   </programme>
+  <programme channel="LCH7160.cl" start="20260811210000 -0400" stop="20260811221500 -0400">
+    <title>¿Volverías con tu ex? 2: Lo mejor</title>
+    <desc>Diez parejas convivirán en un entorno extremo para enfrentar historias pendientes y antiguos conflictos.</desc>
+  </programme>
   <programme channel="LCH7160.cl" start="20260811033000 -0400" stop="20260811040000 -0400">
     <title>Súper humanos</title>
     <desc>Se reúne una serie de reportajes en los que se conocen diferentes regiones del mundo, todas con una particular característica: la longevidad de sus habitantes.</desc>
@@ -14346,6 +14566,10 @@
   <programme channel="LCH7162.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Periodismo al día</title>
     <desc>Noticias y entrevistas.</desc>
+  </programme>
+  <programme channel="LCH7162.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
+    <title>Sin filtros</title>
+    <desc>Noticias, entrevistas, debates.</desc>
   </programme>
   <programme channel="LCH7163.cl" start="20260809161500 -0400" stop="20260809163100 -0400">
     <title>Upa chalupa!</title>
@@ -14711,9 +14935,17 @@
     <title>Ecos del desierto</title>
     <desc>Una miniserie sobre la vida de la abogada de Derechos Humanos Carmen Hertz y retratando principalmente la Caravana de la Muerte y la comitiva liderada por Sergio Arellano Stark que en 1973 terminó con 97 muertos.</desc>
   </programme>
+  <programme channel="LCH7163.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Será anunciado</title>
+    <desc>Programación que se anunciará.</desc>
+  </programme>
   <programme channel="LCH7163.cl" start="20260811200000 -0400" stop="20260811203000 -0400">
     <title>Leer el presente</title>
     <desc>Se pone en escena el trabajo desarrollado por filósofos y filósofas de diferentes regiones de Chile, destacando sus pasiones, modos de escritura y formas de relacionarse con su entorno y otras personas.</desc>
+  </programme>
+  <programme channel="LCH7163.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Poéticas del puente</title>
+    <desc>Espacio donde escritores chilenos reflexionan sobre literatura, ciudad y creación, desde un simbólico Teatro del Puente sobre el río Mapocho.</desc>
   </programme>
   <programme channel="LCH7164.cl" start="20260809140000 -0400" stop="20260809160000 -0400">
     <title>Servicios comunitarios</title>
@@ -14854,6 +15086,10 @@
   <programme channel="LCH7164.cl" start="20260810220000 -0400" stop="20260810230000 -0400">
     <title>Ases del volante</title>
     <desc>Espacio deportivo centrado principalmente en la actividad motor de la región de Punta Arenas, Chile.</desc>
+  </programme>
+  <programme channel="LCH7164.cl" start="20260811210000 -0400" stop="20260812000000 -0400">
+    <title>Programación Polar TV</title>
+    <desc>Programación por anunciarse.</desc>
   </programme>
   <programme channel="LCH7165.cl" start="20260809000000 -0400" stop="20260809010000 -0400">
     <title>Ahorra o nunca</title>
@@ -15107,6 +15343,10 @@
     <title>Financieramente late</title>
     <desc>Un programa que ampliará tu mirada sobre negocios y finanzas desde un formato de entretenimiento.</desc>
   </programme>
+  <programme channel="LCH7165.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Financieramente late</title>
+    <desc>Un programa que ampliará tu mirada sobre negocios y finanzas desde un formato de entretenimiento.</desc>
+  </programme>
   <programme channel="LCH7165.cl" start="20260808230000 -0400" stop="20260809000000 -0400">
     <title>Ciudadano país</title>
     <desc/>
@@ -15290,6 +15530,14 @@
   <programme channel="LCH7167.cl" start="20260811190000 -0400" stop="20260811195500 -0400">
     <title>Teleautos</title>
     <desc/>
+  </programme>
+  <programme channel="LCH7167.cl" start="20260811202500 -0400" stop="20260811210000 -0400">
+    <title>ITV Noticias</title>
+    <desc>Se informa a la opinión pública y se genera debate a través de noticias exclusivas, periodismo de investigación e informes accesibles sobre la última agenda informativa.</desc>
+  </programme>
+  <programme channel="LCH7167.cl" start="20260811210000 -0400" stop="20260811211500 -0400">
+    <title>ITV Tiempo</title>
+    <desc>Información del clima.</desc>
   </programme>
   <programme channel="LCH7168.cl" start="20260809030000 -0400" stop="20260809040000 -0400">
     <title>Música al plato</title>
@@ -15508,6 +15756,10 @@
     <desc>Franja con los más aclamados documentales mundiales.</desc>
   </programme>
   <programme channel="LCH7168.cl" start="20260809000000 -0400" stop="20260809010000 -0400">
+    <title>¡Acorralados!</title>
+    <desc>Después de que dos desafortunados técnicos de televisión tropiezan con la escena de un crimen, cada paso que dan para evitar convertirse en sospechosos los mete en problemas más graves.</desc>
+  </programme>
+  <programme channel="LCH7168.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
     <title>¡Acorralados!</title>
     <desc>Después de que dos desafortunados técnicos de televisión tropiezan con la escena de un crimen, cada paso que dan para evitar convertirse en sospechosos los mete en problemas más graves.</desc>
   </programme>
@@ -16043,6 +16295,14 @@
     <title>Chismosos</title>
     <desc/>
   </programme>
+  <programme channel="LCH7169.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Chismosos</title>
+    <desc/>
+  </programme>
+  <programme channel="LCH7169.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
+    <title>Minería al día</title>
+    <desc>Las principales novedades del sector minero, energético y tecnológico, información sobre sustentabilidad, innovación, inversiones y proyectos que impulsan el desarrollo de la industria en Chile y el mundo.</desc>
+  </programme>
   <programme channel="LCH7169.cl" start="20260809110000 -0400" stop="20260809113000 -0400">
     <title>La Once en el 14</title>
     <desc/>
@@ -16503,6 +16763,10 @@
     <title>Pulso</title>
     <desc>Espacio para conversar sobre los temas de actualidad que rodean al fútbol chileno y al deporte nacional en general.</desc>
   </programme>
+  <programme channel="LCH7170.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>+ Noticias noche</title>
+    <desc>Los hechos noticiosos más relevantes del panorama regional. Además, secciones de policiales, medio ambiente, salud, educación y redes sociales.</desc>
+  </programme>
   <programme channel="LCH7173.cl" start="20260809130000 -0400" stop="20260809140000 -0400">
     <title>Derechos Humanos Sin Fronteras</title>
     <desc>Se debate, divulga y defiende el reconocimiento y aplicación efectiva de los derechos humanos, reconociendo que la solidaridad y la pluralidad de actores son ejes fundamentales.</desc>
@@ -16724,6 +16988,10 @@
     <desc>Una alternativa a las noticias, con invitados de actualidad. Cada semana, un personaje del ambiente nacional se explaya sobre diferentes tópicos en un ambiente cálido, pero no ajeno a la polémica y a la denuncia.</desc>
   </programme>
   <programme channel="LCH7173.cl" start="20260811090000 -0400" stop="20260811100000 -0400">
+    <title>Cara a cara</title>
+    <desc>Una alternativa a las noticias, con invitados de actualidad. Cada semana, un personaje del ambiente nacional se explaya sobre diferentes tópicos en un ambiente cálido, pero no ajeno a la polémica y a la denuncia.</desc>
+  </programme>
+  <programme channel="LCH7173.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
     <title>Cara a cara</title>
     <desc>Una alternativa a las noticias, con invitados de actualidad. Cada semana, un personaje del ambiente nacional se explaya sobre diferentes tópicos en un ambiente cálido, pero no ajeno a la polémica y a la denuncia.</desc>
   </programme>
@@ -16984,6 +17252,10 @@
     <desc>Un padre soltero regresa después de muchos años a Chile, engañado por la abuela de su hija de 7 años, a trabajar en un colegio y vivir en un condominio.</desc>
   </programme>
   <programme channel="LCH767.cl" start="20260811130000 -0400" stop="20260811140000 -0400">
+    <title>Papi Ricky</title>
+    <desc>Un padre soltero regresa después de muchos años a Chile, engañado por la abuela de su hija de 7 años, a trabajar en un colegio y vivir en un condominio.</desc>
+  </programme>
+  <programme channel="LCH767.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
     <title>Papi Ricky</title>
     <desc>Un padre soltero regresa después de muchos años a Chile, engañado por la abuela de su hija de 7 años, a trabajar en un colegio y vivir en un condominio.</desc>
   </programme>
@@ -17380,6 +17652,10 @@
     <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
   </programme>
   <programme channel="LCH858.cl" start="20260810200000 -0400" stop="20260810210000 -0400">
+    <title>ESPN Compact : Premier Padel 2026 - Londres P1 - Final Femenina</title>
+    <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
+  </programme>
+  <programme channel="LCH858.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
     <title>ESPN Compact : Premier Padel 2026 - Londres P1 - Final Femenina</title>
     <desc>Los mejores resúmenes y momentos destacados de los eventos deportivos más importantes a nivel mundial.</desc>
   </programme>
@@ -18263,6 +18539,10 @@
     <title>Vale todo</title>
     <desc>Raquel Accioli una mujer totalmente íntegra, pero su hija Maria de Fátima es todo lo contrario. Ella vende la casa familiar y se escapa con el dinero a Río de Janeiro.</desc>
   </programme>
+  <programme channel="LCH2203.cl" start="20260811203000 -0400" stop="20260811213000 -0400">
+    <title>Vale todo</title>
+    <desc>Raquel Accioli una mujer totalmente íntegra, pero su hija Maria de Fátima es todo lo contrario. Ella vende la casa familiar y se escapa con el dinero a Río de Janeiro.</desc>
+  </programme>
   <programme channel="LCH2204.cl" start="20260809050000 -0400" stop="20260809060000 -0400">
     <title>Miski Takiy</title>
     <desc>Un programa que difunde y revaloriza las expresiones musicales autóctonas del Perú.</desc>
@@ -18499,6 +18779,10 @@
     <title>Hora central</title>
     <desc/>
   </programme>
+  <programme channel="LCH2204.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Hora central</title>
+    <desc/>
+  </programme>
   <programme channel="LCH2204.cl" start="20260810070000 -0400" stop="20260810093000 -0400">
     <title>Primera hora</title>
     <desc/>
@@ -18602,6 +18886,10 @@
   <programme channel="LCH2205.cl" start="20260810223000 -0400" stop="20260811000000 -0400">
     <title>Magaly TV, la firme</title>
     <desc>Un programa lleno de humor, diversión y entrevistas a famosos.</desc>
+  </programme>
+  <programme channel="LCH2205.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>Ocurre ahora</title>
+    <desc>Noticias del Perú y del mundo.</desc>
   </programme>
   <programme channel="LCH2205.cl" start="20260809030000 -0400" stop="20260809050000 -0400">
     <title>Combate</title>
@@ -19011,6 +19299,10 @@
     <title>Soy Luna</title>
     <desc>Luna vive con su familia en Cancún, México, donde tiene un grupo de amigos en la escuela y una fascinación por patinar. Sin embargo, su vida cambia cuando sus padres reciben una oferta de trabajo y deben mudarse a Buenos Aires, Argentina.</desc>
   </programme>
+  <programme channel="LCH2218.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Violetta</title>
+    <desc>Luego de muchos años en Europa, una joven llamada Violeta regresa a Buenos Aires, donde encuentra amigos y el amor, y descubre su pasión por la música.</desc>
+  </programme>
   <programme channel="LCH2218.cl" start="20260809120000 -0400" stop="20260809130000 -0400">
     <title>Hombre al agua</title>
     <desc>Los participantes se enfrentan en una carrera con obstáculos de nieve con la esperanza de llegar a la Zona "Winter Wipeout".</desc>
@@ -19339,6 +19631,10 @@
     <title>Willax noticias edición central</title>
     <desc>Edición central con el desarrollo y cobertura noticiosa de todos los acontecimientos nacionales e internacionales.</desc>
   </programme>
+  <programme channel="LCH2219.cl" start="20260811205500 -0400" stop="20260811215500 -0400">
+    <title>Contracorriente</title>
+    <desc>Programa de corte periodístico y análisis sobre política y noticias de actualidad.</desc>
+  </programme>
   <programme channel="LCH2219.cl" start="20260810103000 -0400" stop="20260810105500 -0400">
     <title>Mi bella genio</title>
     <desc>El astronauta Tony Nelson se esfuerza por llevar una vida normal hasta que rescata a un genio que estaba encerrada en una botella y que decide quedarse a vivir con él.</desc>
@@ -19558,6 +19854,10 @@
   <programme channel="LCH2318.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>N Portada</title>
     <desc>Un espacio de análisis noticioso, las cuatro mejores noticias del día son analizadas y comentadas por los analistas invitados y los periodistas de la casa.</desc>
+  </programme>
+  <programme channel="LCH2318.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Primero a las 8</title>
+    <desc>Un noticiero con todo el acontecer nacional e internacional y excelentes coberturas informativas.</desc>
   </programme>
   <programme channel="LCH2318.cl" start="20260809120000 -0400" stop="20260809130000 -0400">
     <title>El cliente</title>
@@ -19835,6 +20135,10 @@
     <title>La Fiera</title>
     <desc>Catalina Chamorro, una mujer de carácter fuerte, rechaza a cuantos pretendientes se crucen en su camino. El problema es que su padre se niega a entregar en matrimonio a Blanca, su hija menor, hasta que no haya casado a Catalina, la mayor.</desc>
   </programme>
+  <programme channel="LCH2377.cl" start="20260811210000 -0400" stop="20260811224000 -0400">
+    <title>24 horas central</title>
+    <desc>La información de mayor importancia internacional, nacional y regional.</desc>
+  </programme>
   <programme channel="LCH2377.cl" start="20260809044500 -0400" stop="20260809051500 -0400">
     <title>Entre viñas</title>
     <desc>Un programa que visita diversas viñas, mostrando la gran gama de vinos chilenos.</desc>
@@ -20051,6 +20355,10 @@
     <title>Fútbol como cancha</title>
     <desc>Polémica, debate, primicias y más en el mundo del fútbol en el Perú.</desc>
   </programme>
+  <programme channel="LCH2459.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Las noticias</title>
+    <desc>Programa de noticias con Maritza Sáenz.</desc>
+  </programme>
   <programme channel="LCH2459.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Las cosas como son</title>
     <desc>Un programa con entrevistas a especialistas para analizar diversos temas de actualidad política, social y económica.</desc>
@@ -20231,9 +20539,17 @@
     <title>Zona mixta</title>
     <desc>Toda la actualidad del deporte nacional y mundial en un noticiero donde se muestran los hechos más relevantes además de las declaraciones que serán los titulares del mañana.</desc>
   </programme>
+  <programme channel="LCH3298.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>El camerino</title>
+    <desc>Los deportistas favoritos entran al camerino para divertirse y revelar facetas desconocidas en medio de juegos, risas y mucho deporte.</desc>
+  </programme>
   <programme channel="LCH3298.cl" start="20260811200000 -0400" stop="20260811203000 -0400">
     <title>Fútbol lab</title>
     <desc>Los mejores análisis y pronósticos que necesitas sobre los partidos.</desc>
+  </programme>
+  <programme channel="LCH3298.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Perú surf</title>
+    <desc>Un programa producido y dirigido íntegramente por tablistas y bodyboarders peruanos para seguir a los surfistas en su persecución de las mejores olas del Perú y del mundo, así como a las estrellas internacionales de la tabla.</desc>
   </programme>
   <programme channel="LCH3298.cl" start="20260809110000 -0400" stop="20260809120000 -0400">
     <title>Full ruedas</title>
@@ -20579,6 +20895,10 @@
     <title>Así de simple</title>
     <desc>Un programa de variedades, humor, noticias y lo mejor del entretenimiento.</desc>
   </programme>
+  <programme channel="LCH3451.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>Así de simple</title>
+    <desc>Un programa de variedades, humor, noticias y lo mejor del entretenimiento.</desc>
+  </programme>
   <programme channel="LCH3451.cl" start="20260810180000 -0400" stop="20260810190000 -0400">
     <title>Matinal</title>
     <desc/>
@@ -20851,6 +21171,10 @@
     <title>Informe extra</title>
     <desc>Noticiero donde se analizan temas de política internacional, crisis económicas y seguridad global.</desc>
   </programme>
+  <programme channel="LCH5619.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Informe extra</title>
+    <desc>Noticiero donde se analizan temas de política internacional, crisis económicas y seguridad global.</desc>
+  </programme>
   <programme channel="LCH5619.cl" start="20260811110000 -0400" stop="20260811113000 -0400">
     <title>Auto TV</title>
     <desc>Un espacio para poder encontrar información exclusiva y las últimas novedades en el mundo del automovilismo.</desc>
@@ -20948,6 +21272,10 @@
     <desc>Las noticias más destacadas del ámbito local e internacionales. Además, reportajes, móviles en vivo e informes especiales.</desc>
   </programme>
   <programme channel="LCH5619.cl" start="20260811200000 -0400" stop="20260811203000 -0400">
+    <title>Hoy noticias: Edición central</title>
+    <desc>Las noticias más destacadas del ámbito local e internacionales. Además, reportajes, móviles en vivo e informes especiales.</desc>
+  </programme>
+  <programme channel="LCH5619.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
     <title>Hoy noticias: Edición central</title>
     <desc>Las noticias más destacadas del ámbito local e internacionales. Además, reportajes, móviles en vivo e informes especiales.</desc>
   </programme>
@@ -21483,6 +21811,10 @@
     <title>Abismo alienígena</title>
     <desc>Un análisis de las extrañas y maravillosas criaturas que habitan los océanos. Miles de millones de años, desde las glaciaciones hasta los asteroides, han moldeado su aspecto y sus habilidades.</desc>
   </programme>
+  <programme channel="LCH5703.cl" start="20260811210000 -0400" stop="20260811215500 -0400">
+    <title>Convirtiéndose en orangután</title>
+    <desc>En esta escuela y refugio, los orangutanes huérfanos son criados por cuidadores humanos capacitados, que les enseñan las habilidades de supervivencia que necesitan para sobrevivir algún día en la naturaleza.</desc>
+  </programme>
   <programme channel="LCH5703.cl" start="20260811200500 -0400" stop="20260811210000 -0400">
     <title>Animales como nosotros</title>
     <desc>Una visión única de las vidas de los animales y de cómo compiten, cooperan, aman y lloran, tal como lo hacen los humanos.</desc>
@@ -21951,6 +22283,10 @@
     <title>Château !</title>
     <desc>El presentador André Manoukian visita los castillos más bellos de la región Centro-Val de Loire. Grandes o pequeños, antiguos o modernos, famosos o desconocidos, cada uno de estos hitos del patrimonio francés cuenta su propia historia.</desc>
   </programme>
+  <programme channel="LCH6299.cl" start="20260811210200 -0400" stop="20260811213000 -0400">
+    <title>Les Belges du bout du monde</title>
+    <desc>Un recorrido íntimo por la vida y las elecciones de individuos increíblemente pudientes en todo el mundo. Este grupo de belgas ha hecho lo imposible para alcanzar sus sueños.</desc>
+  </programme>
   <programme channel="LCH6299.cl" start="20260810184500 -0400" stop="20260810185700 -0400">
     <title>L'art et la matière</title>
     <desc>Moda, artesanía, diseño y el arte de vivir. El famoso "savoir-faire" francés.</desc>
@@ -22287,6 +22623,10 @@
     <title>Elif</title>
     <desc>Melek se enamora de Kenan, el hijo favorito de la familia para la que trabajaba. Pero la madre de Kenan la rechaza y la envía lejos a pesar de estar embarazada. La hija de ambos, Elif, nace mientras su padre se casa con otra mujer.</desc>
   </programme>
+  <programme channel="LCH6309.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Elif</title>
+    <desc>Melek se enamora de Kenan, el hijo favorito de la familia para la que trabajaba. Pero la madre de Kenan la rechaza y la envía lejos a pesar de estar embarazada. La hija de ambos, Elif, nace mientras su padre se casa con otra mujer.</desc>
+  </programme>
   <programme channel="LCH6309.cl" start="20260810120000 -0400" stop="20260810130000 -0400">
     <title>Escape perfecto</title>
     <desc>Para desbloquear una jaula gigante llena de fabulosos premios hay que pensar, hablar y moverse rápido, responder correctamente a las preguntas y aprovechar los 90 segundos para llevárselo todo.</desc>
@@ -22390,6 +22730,10 @@
   <programme channel="LCH6509.cl" start="20260811050000 -0400" stop="20260811063000 -0400">
     <title>Águila Roja</title>
     <desc>Un héroe anónimo justiciero conocido con el apelativo de Águila Roja, ayuda a los débiles y busca sin descanso a los culpables del trágico asesinato de su joven esposa.</desc>
+  </programme>
+  <programme channel="LCH6509.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>Ocurre ahora</title>
+    <desc>Noticias del Perú y del mundo.</desc>
   </programme>
   <programme channel="LCH6509.cl" start="20260809030000 -0400" stop="20260809050000 -0400">
     <title>Combate</title>
@@ -22692,6 +23036,10 @@
     <desc>Lo mejor del K-pop en un solo lugar.</desc>
   </programme>
   <programme channel="LCH7108.cl" start="20260811160000 -0400" stop="20260811170000 -0400">
+    <title>Solo K-pop</title>
+    <desc>Lo mejor del K-pop en un solo lugar.</desc>
+  </programme>
+  <programme channel="LCH7108.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
     <title>Solo K-pop</title>
     <desc>Lo mejor del K-pop en un solo lugar.</desc>
   </programme>
@@ -23003,6 +23351,14 @@
     <title>Hawaii Five-0 : Blood Brothers</title>
     <desc>Varios miembros del equipo caen en una trampa cuando una pista falsa los lleva a investigar un edificio abandonado a punto de explotar. Cuando llegan al inmueble, McGarrett y Danny quedan atrapados en el interior.</desc>
   </programme>
+  <programme channel="LCH2570.cl" start="20260811210500 -0400" stop="20260811220000 -0400">
+    <title>Criminal Minds : The Wheels on the Bus ...</title>
+    <desc>El equipo BAU entra en acción cuando un autobús escolar lleno de niños desaparece cerca de Washington, D.C.</desc>
+  </programme>
+  <programme channel="LCH2570.cl" start="20260811201000 -0400" stop="20260811210500 -0400">
+    <title>Criminal Minds : The Fallen</title>
+    <desc>El equipo viaja a Santa Mónica en donde empiezan a aparecer cuerpos quemados en un muelle; Rossi se une a su ex sargento de la Marina de Vietnam.</desc>
+  </programme>
   <programme channel="LCH2625.cl" start="20260809011000 -0400" stop="20260809032000 -0400">
     <title>Sicario: El día del soldado</title>
     <desc>El FBI encarga a un impredecible mercenario conseguir que los carteles de la droga mexicanos se enfrenten para evitar que sigan introduciendo a terroristas en los EE. UU. El mercenario secuestra a la hija de uno de los jefes del narcotráfico.</desc>
@@ -23250,6 +23606,10 @@
   <programme channel="LCH2625.cl" start="20260811143000 -0400" stop="20260811150000 -0400">
     <title>My Wife and Kids : Claire's Permit</title>
     <desc>Los temores de Michael se vuelven una realidad cuando intenta enseñar a manejar a Claire.</desc>
+  </programme>
+  <programme channel="LCH2625.cl" start="20260811210500 -0400" stop="20260811233500 -0400">
+    <title>El justiciero</title>
+    <desc>Robert McCall, un antiguo comando de operaciones especiales que ha fingido su propia muerte, se ve obligado a salir de su retiro para salvar la vida de Teri, una joven que se encuentra en manos de unos mafiosos rusos ultraviolentos.</desc>
   </programme>
   <programme channel="LCH2629.cl" start="20260809193000 -0400" stop="20260809202000 -0400">
     <title>La ley y el orden: Unidad de Víctimas Especiales : Doctor, es el barrio chino</title>
@@ -23563,6 +23923,14 @@
     <title>FBI : Boy Scout</title>
     <desc>Después de que encuentran a un joven golpeado hasta la muerte en un terreno federal, Scola y la agente especial Eva Ramos se topan con un obstáculo cuando su caso se cruza con una operación de la DEA.</desc>
   </programme>
+  <programme channel="LCH2629.cl" start="20260811202000 -0400" stop="20260811211000 -0400">
+    <title>La ley y el orden: Unidad de Víctimas Especiales : La ira de un escocés</title>
+    <desc>Perry Gilbert, Mía Harris y Zoe se adentran en el bosque, pero ocurren varios hechos violentos. Mientras los detectives Rollins y Carisi buscan al sospechoso, Benson intenta distinguir la fantasía de la realidad en el caso.</desc>
+  </programme>
+  <programme channel="LCH2629.cl" start="20260811211000 -0400" stop="20260811220000 -0400">
+    <title>La ley y el orden: Unidad de Víctimas Especiales : Cruce en Chicago</title>
+    <desc>Miembros de Chicago P.D., Chicago Fire y la Unidad de Víctimas Especiales investigan las raíces de un sitio de internet de pornografía infantil. Mientras tanto, tensión entre Benson y Voight amenaza con desbaratar la investigación.</desc>
+  </programme>
   <programme channel="LCH2629.cl" start="20260810075000 -0400" stop="20260810084000 -0400">
     <title>Chicago Med : El amor nos destrozará</title>
     <desc>Continúan los problemas de Goodwin. Charles tiene problemas con su antiguo residente por un paciente deprimido. Lenox y Ripley tratan a una víctima de accidente automovilístico.</desc>
@@ -23851,6 +24219,10 @@
     <title>Gordon Ramsay: Sabores extremos : Los secretos del sabor cubano</title>
     <desc>Gordon viaja a Cuba para descubrir sus tradiciones culinarias. Gordon busca los ingredientes cubanos más auténticos y deliciosos.</desc>
   </programme>
+  <programme channel="LCH2637.cl" start="20260811210000 -0400" stop="20260811220100 -0400">
+    <title>Secretos de los mayas : Un mundo perdido</title>
+    <desc>Un nuevo mapa del tesoro descubre un misterioso complejo de pirámides que revela alarmantes claves de violentos sacrificios. Se exploran sistemas de cuevas recién descubiertos revelando pruebas de un antiguo ritual maya.</desc>
+  </programme>
   <programme channel="LCH2637.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Mayas: Auge y caída : Civilización</title>
     <desc>El cómo y cuándo el pueblo maya de México y Centroamérica comenzó a construir inmensas ciudades y pirámides ha sido un misterio durante mucho tiempo. Sin embargo, actualmente las nuevas pruebas desenterradas están transformando lo que se creía.</desc>
@@ -24022,6 +24394,10 @@
   <programme channel="LCH2651.cl" start="20260811181800 -0400" stop="20260811201800 -0400">
     <title>El vendedor chino</title>
     <desc>Un joven ingeniero chino descubre una conspiración en África cuyo objetivo es obtener un suculento contrato ligado al negocio de la alta tecnología.</desc>
+  </programme>
+  <programme channel="LCH2651.cl" start="20260811201800 -0400" stop="20260811220000 -0400">
+    <title>El cofre</title>
+    <desc>David Waters y Jim Stone son dos policías que descubren una caja fuerte llena de dinero proveniente del narcotráfico mientras ayudan al Departamento de Policía de Las Vegas. Los dos quieren hacerse con el dinero, lo que les lleva a corromperse.</desc>
   </programme>
   <programme channel="LCH2692.cl" start="20260809112200 -0400" stop="20260809134300 -0400">
     <title>Soy el número cuatro</title>
@@ -24406,6 +24782,10 @@
   <programme channel="LCH2713.cl" start="20260811184500 -0400" stop="20260811200000 -0400">
     <title>El juego de mi destino</title>
     <desc>Tras el nacimiento de su segundo hijo, Asiye es abandonada por su marido. Siete años más tarde, decide dejar la ciudad junto a sus dos pequeños cuando un vecino intenta violar a su hija Nergis.</desc>
+  </programme>
+  <programme channel="LCH2713.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>Yo me llamo</title>
+    <desc>Un concurso musical que revive a los íconos de la música, donde los participantes mostrarán todo su talento para convertirse en grandes artistas.</desc>
   </programme>
   <programme channel="LCH2720.cl" start="20260809010000 -0400" stop="20260809030000 -0400">
     <title>Tour de Francia Femenino 2026 : Etapa 8</title>
@@ -24935,6 +25315,10 @@
     <title>Pa' seguirte queriendo</title>
     <desc>Seis años después, Mauricio y su grupo de amigos enfrentan los retos de la madurez y de las nuevas versiones de sí mismos. Los amigos deben sanar heridas, superar dificultades y adaptarse a los cambios que traen los años en sus relaciones familiares.</desc>
   </programme>
+  <programme channel="LCH2738.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Pa' seguirte queriendo</title>
+    <desc>Seis años después, Mauricio y su grupo de amigos enfrentan los retos de la madurez y de las nuevas versiones de sí mismos. Los amigos deben sanar heridas, superar dificultades y adaptarse a los cambios que traen los años en sus relaciones familiares.</desc>
+  </programme>
   <programme channel="LCH2738.cl" start="20260810153000 -0400" stop="20260810163000 -0400">
     <title>Caso cerrado</title>
     <desc>La doctora Ana María Polo interviene en batallas legales que afectan a los latinos. Como en una corte, las partes presentan testigos y evidencias para que ella emita su decisión. Además, expertos contribuyen con sus conocimientos.</desc>
@@ -25047,6 +25431,10 @@
     <title>Fútbol Colombiano Primera División : Jaguares vs. Once Caldas</title>
     <desc>Acción de la fecha 4 del Torneo Finalización 2026 de la Categoría Primera A. Jaguares se enfrenta a Once Caldas. Desde el estadio Jaraguay, en Montería, Colombia.</desc>
   </programme>
+  <programme channel="LCH2761.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Fútbol: Previa</title>
+    <desc>Reportajes, análisis y comentarios previo al gran evento deportivo.</desc>
+  </programme>
   <programme channel="LCH2761.cl" start="20260809050000 -0400" stop="20260809070000 -0400">
     <title>Fútbol Colombiano Primera División : Fortaleza vs. Cúcuta Deportivo</title>
     <desc>Acción de la fecha 4 del Torneo Finalización 2026 de la Categoría Primera A. Fortaleza se enfrenta a Cúcuta Deportivo. Desde el Estadio Metropolitano de Techo, en Bogotá, Colombia.</desc>
@@ -25154,6 +25542,10 @@
   <programme channel="LCH2761.cl" start="20260810210000 -0400" stop="20260810230000 -0400">
     <title>Fútbol Colombiano Primera División : Junior vs. Deportivo Pereira</title>
     <desc>Acción de la fecha 4 del Torneo Finalización 2026 de la Categoría Primera A. Junior se enfrenta a Deportivo Pereira. Desde el estadio Romelio Martínez, en Barranquilla, Colombia.</desc>
+  </programme>
+  <programme channel="LCH2761.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
+    <title>Fútbol Colombiano Segunda División : Boca Juniors de Cali vs. Unión Magdalena</title>
+    <desc>Jornada 5 del Torneo 2021-I. Boca Juniors recibe a Unión Magdalena. Acción desde el estadio Francisco Rivera Escobar.</desc>
   </programme>
   <programme channel="LCH2761.cl" start="20260811180000 -0400" stop="20260811200000 -0400">
     <title>Fútbol Colombiano Femenino Primera División : Independiente Medellín vs. América de Cali</title>
@@ -25282,6 +25674,10 @@
   <programme channel="LCH3772.cl" start="20260810232900 -0400" stop="20260811012200 -0400">
     <title>La momia</title>
     <desc>Ahmanet, una antigua y maldita princesa egipcia, despierta furiosa y siembra el terror entre los humanos. Solo un intrépido mercenario podrá detenerla y evitar que su ira destruya Londres.</desc>
+  </programme>
+  <programme channel="LCH3772.cl" start="20260811210700 -0400" stop="20260811230000 -0400">
+    <title>La chica de la capa roja</title>
+    <desc>Durante décadas, los habitantes de Daggerhorn mantienen un pacto con el hombre lobo: para saciar su apetito, le ofrecen un animal cada mes, hasta que la bestia incumple el pacto y devora a un ser humano. Una mujer sospecha quién es el licántropo.</desc>
   </programme>
   <programme channel="LCH3772.cl" start="20260809051300 -0400" stop="20260809070000 -0400">
     <title>Legado de Mentiras</title>
@@ -25494,6 +25890,10 @@
   <programme channel="LCH3972.cl" start="20260811190000 -0400" stop="20260811210000 -0400">
     <title>Fútbol Colombiano Segunda División : Real Cartagena vs. Bogotá</title>
     <desc>Acción de la fecha 4 del Torneo Finalización 2026 de la Categoría Primera B. Real Cartagena se enfrenta a Bogotá. Desde el estadio Jaime Morón León, en Cartagena, Colombia.</desc>
+  </programme>
+  <programme channel="LCH3972.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
+    <title>Fútbol Colombiano Segunda División : Boca Juniors de Cali vs. Unión Magdalena</title>
+    <desc>Jornada 5 del Torneo 2021-I. Boca Juniors recibe a Unión Magdalena. Acción desde el estadio Francisco Rivera Escobar.</desc>
   </programme>
   <programme channel="LCH3972.cl" start="20260809060000 -0400" stop="20260809080000 -0400">
     <title>Fútbol Colombiano Primera División : Liga I 1996: América de Cali vs. Atlético Nacional</title>
@@ -25723,6 +26123,10 @@
     <title>Loudermilk : Invitation Only</title>
     <desc>Loudermilk se ve obligado a enfrentar el hecho de que tal vez no conozca a su mejor amigo Ben tan bien como cree.</desc>
   </programme>
+  <programme channel="LCH7124.cl" start="20260811210000 -0400" stop="20260811224000 -0400">
+    <title>La cruda verdad</title>
+    <desc>Abby es una productora con unos ideales sobre el amor muy especiales. Todo cambia cuando aparece en su vida Mike, un intrépido periodista que intenta demostrarle que lo que busca no vale tanto, y para ello le hace pasar un test sobre las relaciones.</desc>
+  </programme>
   <programme channel="LCH3075.cl" start="20260809060000 -0400" stop="20260809070000 -0400">
     <title>Pampero TV</title>
     <desc>Programa de agricultura y alimentos producido en Trenque Lauquen. Información agropecuaria, elaborada de la mano del INTA.</desc>
@@ -25887,6 +26291,10 @@
     <title>Mediodía bien arriba</title>
     <desc>Un programa de espectáculos único, lleno de entrevistas, móviles en vivo, informes especiales, noticias del mundo del entretenimiento, música y mucha diversión.</desc>
   </programme>
+  <programme channel="LCH3075.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Lo mejor de: Se siente Argentina</title>
+    <desc>La Televisión Pública pone al aire los mejores momentos de los festivales ya emitidos, entrevistas y notas a músicos y personalidades que participan de ellos.</desc>
+  </programme>
   <programme channel="LCH3075.cl" start="20260811160000 -0400" stop="20260811180000 -0400">
     <title>Iluminadas</title>
     <desc/>
@@ -26022,6 +26430,10 @@
   <programme channel="LCH3119.cl" start="20260811084500 -0400" stop="20260811094500 -0400">
     <title>Película</title>
     <desc>Arte cinematográfico mundial.</desc>
+  </programme>
+  <programme channel="LCH3119.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>Casada con "el Chapo": Emma Coronel habla</title>
+    <desc>En una entrevista exclusiva, Emma Coronel, esposa del narcotraficante Joaquín "el Chapo" Guzmán, revela el encanto y el peligro de la vida junto a un genio del crimen.</desc>
   </programme>
   <programme channel="LCH3119.cl" start="20260809004700 -0400" stop="20260809024600 -0400">
     <title>Mortal Kombat II</title>
@@ -26519,9 +26931,17 @@
     <title>¿Quién da má$? : El dinero manda</title>
     <desc>Esta vez en Montebello, René se enfrenta cara a cara con Darrell, compra la unidad hermana para ver si finalmente puede destituir al rey. Lisa y su perro se escabullen en un casillero que gana su sello de aprobación.</desc>
   </programme>
+  <programme channel="LCH3122.cl" start="20260811202500 -0400" stop="20260811205000 -0400">
+    <title>¿Quién da má$? : Nada es imposible</title>
+    <desc>Hace calor en Moreno Valley y Kenny combate el calor dándoles a todos paletas heladas. René trae a su hija, Tatiana, que necesita una lección de matemáticas. Los dos hijos de Ivy dan una mano.</desc>
+  </programme>
   <programme channel="LCH3122.cl" start="20260811200000 -0400" stop="20260811202500 -0400">
     <title>¿Quién da má$? : Ven a golpear nuestro depósito</title>
     <desc>Brandi se levanta con el pie izquierdo, pero lo aprovecha en Fullerton. Ivy consigue dos casilleros, eliminando a la competencia.</desc>
+  </programme>
+  <programme channel="LCH3122.cl" start="20260811205000 -0400" stop="20260811211500 -0400">
+    <title>¿Quién da má$? : Amo a Lupe!</title>
+    <desc>Las mujeres sobrepasan en número a los hombres en Rosamond, donde Dusty y su novia descubren un arsenal de recuerdos clásicos de la televisión.</desc>
   </programme>
   <programme channel="LCH3123.cl" start="20260809062700 -0400" stop="20260809080800 -0400">
     <title>Un papá genial</title>
@@ -26650,6 +27070,10 @@
   <programme channel="LCH3123.cl" start="20260811142300 -0400" stop="20260811162800 -0400">
     <title>Los agentes del destino</title>
     <desc>Después de vislumbrar su futuro, un ambicioso político se enfrenta a un grupo de hombres misteriosos que intentan separarlo de la mujer que ama.</desc>
+  </programme>
+  <programme channel="LCH3123.cl" start="20260811210000 -0400" stop="20260811235100 -0400">
+    <title>Catch Me if You Can</title>
+    <desc>Un joven estafador se hace pasar exitosamente por un piloto de una aerolínea, un cirujano y un abogado.</desc>
   </programme>
   <programme channel="LCH3123.cl" start="20260808233600 -0400" stop="20260809015700 -0400">
     <title>Rápidos y furiosos 8</title>
@@ -26876,6 +27300,10 @@
     <desc>Juego de la temporada regular 2026. Los Angeles Sparks intenta hacer valer la localía y empatar la serie. En el duelo más reciente, la dupla conformada por Gabby Williams y Kaila Charles lideró la ofensiva de Golden State Valkyries con 29 puntos.</desc>
   </programme>
   <programme channel="LCH3124.cl" start="20260810150000 -0400" stop="20260810160000 -0400">
+    <title>ESPN Compact : MotoGP: Reino Unido</title>
+    <desc>Los momentos más destacados de la carrera principal de la ronda 12 del MotoGP 2026 con el Gran Premio del Reino Unido. Desde el Circuito de Silverstone, en Northamptonshire, Inglaterra. Disputado el 9 de agosto de 2026.</desc>
+  </programme>
+  <programme channel="LCH3124.cl" start="20260811203000 -0400" stop="20260811213000 -0400">
     <title>ESPN Compact : MotoGP: Reino Unido</title>
     <desc>Los momentos más destacados de la carrera principal de la ronda 12 del MotoGP 2026 con el Gran Premio del Reino Unido. Desde el Circuito de Silverstone, en Northamptonshire, Inglaterra. Disputado el 9 de agosto de 2026.</desc>
   </programme>
@@ -27683,6 +28111,10 @@
     <title>The Big Bang Theory : The Communication Deterioration</title>
     <desc>Los chicos discuten por el mensaje que Raj debería escribirle a la NASA en caso de contacto con alienígenas. Por otro lado, Penny debe decidir entre audicionar para una película o mantener su empleo de representante de ventas farmacéuticas.</desc>
   </programme>
+  <programme channel="LCH3173.cl" start="20260811210000 -0400" stop="20260811230500 -0400">
+    <title>Una esposa de mentira</title>
+    <desc>El cirujano Danny decide contratar a su ayudante Katherine, una madre soltera con hijos, para que finjan ser su familia. Su intención es demostrarle a Palmer que su amor por ella es tan grande que está a punto de divorciarse de su mujer.</desc>
+  </programme>
   <programme channel="LCH3173.cl" start="20260809045200 -0400" stop="20260809045400 -0400">
     <title>TNT Buzz</title>
     <desc>Programa de entrevistas, reportajes y noticias del mundo del entretenimiento para estar al corriente del acontecer actual.</desc>
@@ -27886,6 +28318,10 @@
   <programme channel="LCH3175.cl" start="20260811080000 -0400" stop="20260811100000 -0400">
     <title>Buen día ESPN</title>
     <desc>Cobertura de la actualidad deportiva con entrevistas, protagonistas y la mejor onda.</desc>
+  </programme>
+  <programme channel="LCH3175.cl" start="20260811210000 -0400" stop="20260811223000 -0400">
+    <title>SportsCenter</title>
+    <desc>El noticiero de ESPN con la más amplia cobertura y noticias de los eventos deportivos.</desc>
   </programme>
   <programme channel="LCH3175.cl" start="20260809040000 -0400" stop="20260809050000 -0400">
     <title>SportsCenter</title>
@@ -28299,6 +28735,10 @@
     <title>Grandes escapes con Morgan Freeman : El Chapo</title>
     <desc>Tras escaparse de prisiones con máxima seguridad en México, uno de los capos de los cárteles de la droga más notorios de la historia moderna, El Chapo, se encuentra en una cárcel en Colorado.</desc>
   </programme>
+  <programme channel="LCH3176.cl" start="20260811205000 -0400" stop="20260811214500 -0400">
+    <title>Búsqueda Alienígena : El Misterio de los Cíclopes</title>
+    <desc>En Malta se hallan unas construcciones megalíticas que fueron creadas por una misteriosa cultura prehistórica. ¿Dan pistas sobre la existencia de una conexión extraterrestre? Giorgio Tsoukalos investiga estas estructuras gigantescas.</desc>
+  </programme>
   <programme channel="LCH3176.cl" start="20260810054500 -0400" stop="20260810060900 -0400">
     <title>Abierto para compras : Mooca</title>
     <desc>El viaje de compras de antigüedades comienza en el barrio de Mooca, en São Paulo, donde los expertos enfrentan el desafío de encontrar un objeto vinculado a la inmigración.</desc>
@@ -28622,6 +29062,14 @@
   <programme channel="LCH3177.cl" start="20260811060000 -0400" stop="20260811070000 -0400">
     <title>CSI: NY : The Untouchable</title>
     <desc>El equipo investiga la muerte de una teórica de la conspiración, que al parecer estaba cerca de una realidad.</desc>
+  </programme>
+  <programme channel="LCH3177.cl" start="20260811201000 -0400" stop="20260811210400 -0400">
+    <title>S.W.A.T. : Herencia</title>
+    <desc>El equipo investiga una banda criminal que está copiando los ataques cometidos por el Ejército Simbiótico de Liberación, un grupo terrorista de extrema izquierda que actuó en la década de 1970. Hondo sufre discriminación durante un seminario.</desc>
+  </programme>
+  <programme channel="LCH3177.cl" start="20260811210400 -0400" stop="20260811220000 -0400">
+    <title>9-1-1: Lone Star : Slow Burn</title>
+    <desc>Después de tomarse un tiempo libre para recuperarse de su cirugía, Owen se encuentra inmerso en la búsqueda de un pirómano en serie. T.K. y Carlos llevan su relación al siguiente nivel. Marjan lidia con las secuelas de perder a alguien en el trabajo.</desc>
   </programme>
   <programme channel="LCH3177.cl" start="20260809095500 -0400" stop="20260809105000 -0400">
     <title>NCIS: Los Angeles : Brimstone</title>
@@ -29051,6 +29499,14 @@
     <title>Los Simpson : Los buenos, los tristes y las drogas</title>
     <desc>Obligado a hacer trabajo comunitario, Bart se enamora de una voluntaria en el asilo del abuelo, pero abandona al fiel Milhouse. Lisa predice el futuro de Springfield y se deprime por lo que ve.</desc>
   </programme>
+  <programme channel="LCH3268.cl" start="20260811202700 -0400" stop="20260811210000 -0400">
+    <title>Los Simpson : Papá no sabe nada</title>
+    <desc>Homero cree que sus hijos lo necesitan y trata de convertir a Lisa en una chica popular y hacer que Bart gane un concurso de construcción de maquetas de edificios célebres. Mientras tanto, Marge descubre una sauna en el sótano de la casa.</desc>
+  </programme>
+  <programme channel="LCH3268.cl" start="20260811210000 -0400" stop="20260811235800 -0400">
+    <title>Contracara</title>
+    <desc>Mientras el terrorista Castor Troy está en coma, un agente del FBI decide asumir su identidad para saber dónde está escondida un arma biológica.</desc>
+  </programme>
   <programme channel="LCH3268.cl" start="20260809070300 -0400" stop="20260809092300 -0400">
     <title>Una nueva eternidad</title>
     <desc>Después de la repentina muerte de su esposo, Libby se ve obligada a mudarse a la granja de su tía en Texas. Mientras lucha por adaptarse a la vida en el campo, la joven viuda comienza a enamorarse del administrador de la granja.</desc>
@@ -29178,6 +29634,10 @@
   <programme channel="LCH3269.cl" start="20260811190600 -0400" stop="20260811205900 -0400">
     <title>10 jours sans maman</title>
     <desc>Antoine es el Jefe de recursos humanos de una gran empresa. Cuando su mujer decide irse de vacaciones y dejarle con la responsabilidad de sus cuatro hijos, intuye que será fácil. Pero Antoine ha subestimado el lío que esto puede suponer.</desc>
+  </programme>
+  <programme channel="LCH3269.cl" start="20260811205900 -0400" stop="20260811225800 -0400">
+    <title>Plan de vuelo</title>
+    <desc>Una viuda pierde el control cuando su hija de seis años desaparece, sin dejar rastro, en un avión de última generación que vuela de Berlín a Nueva York, lo que desata una intensa búsqueda.</desc>
   </programme>
   <programme channel="LCH3269.cl" start="20260809060000 -0400" stop="20260809092500 -0400">
     <title>La gran aventura de los Lunnis y el libro mágico</title>
@@ -29440,6 +29900,10 @@
     <desc>Independiente recibe a Platense en el Estadio Libertadores de América por la fecha 4 de la Zona A del Torneo Clausura 2026. El Rojo ha ganado los últimos 2 encuentros ante El Calamar con al menos un gol de diferencia.</desc>
   </programme>
   <programme channel="LCH3281.cl" start="20260810180500 -0400" stop="20260810200000 -0400">
+    <title>Fútbol Argentino Primera División : Independiente vs. Platense</title>
+    <desc>Independiente recibe a Platense en el Estadio Libertadores de América por la fecha 4 de la Zona A del Torneo Clausura 2026. El Rojo ha ganado los últimos 2 encuentros ante El Calamar con al menos un gol de diferencia.</desc>
+  </programme>
+  <programme channel="LCH3281.cl" start="20260811210500 -0400" stop="20260811230000 -0400">
     <title>Fútbol Argentino Primera División : Independiente vs. Platense</title>
     <desc>Independiente recibe a Platense en el Estadio Libertadores de América por la fecha 4 de la Zona A del Torneo Clausura 2026. El Rojo ha ganado los últimos 2 encuentros ante El Calamar con al menos un gol de diferencia.</desc>
   </programme>
@@ -30391,6 +30855,18 @@
     <title>South Park : La palabra con M</title>
     <desc>Los chicos luchan contra los odiosos motociclistas que están perturbando a todo el mundo en South Park.</desc>
   </programme>
+  <programme channel="LCH3310.cl" start="20260811211000 -0400" stop="20260811213500 -0400">
+    <title>South Park : Mapache 2: Retrospectiva</title>
+    <desc>Coon y amigos se preparan para ayudar a las víctimas del catastrófico accidente petrolero en el Golfo de México de la compañía British Petroleum.</desc>
+  </programme>
+  <programme channel="LCH3310.cl" start="20260811203000 -0400" stop="20260811205000 -0400">
+    <title>South Park : Pis</title>
+    <desc>Las cosas se vuelven peligrosas cuando los niños pasan un día en el parque de agua.</desc>
+  </programme>
+  <programme channel="LCH3310.cl" start="20260811205000 -0400" stop="20260811211000 -0400">
+    <title>South Park : Pobre y Estúpido</title>
+    <desc>Cartman tiene sueños de ser piloto de los autos NASCAR y haría lo que sea para hacerlo realidad.</desc>
+  </programme>
   <programme channel="LCH3317.cl" start="20260809063900 -0400" stop="20260809085300 -0400">
     <title>Ahora son 13</title>
     <desc>Danny Ocean vuelve a reunir a los chicos para un nuevo golpe, después de que Willy Bank, el despiadado dueño de un casino, traicione a Reuben Tishkoff, amigo y mentor de Danny.</desc>
@@ -30530,6 +31006,10 @@
   <programme channel="LCH3317.cl" start="20260811190400 -0400" stop="20260811210000 -0400">
     <title>Agente Salt</title>
     <desc>Después de que un desertor la acusa de espiar para los rusos, una agente de la CIA decide huir e intenta encontrar la forma de probar su inocencia.</desc>
+  </programme>
+  <programme channel="LCH3317.cl" start="20260811210000 -0400" stop="20260811232300 -0400">
+    <title>Pequeños secretos</title>
+    <desc>Un sheriff y un detective de homicidios colaboran para dar caza a un astuto asesino en Los Ángeles. Mientras rastrean al culpable, el pasado de uno de ellos comienza a salir a la luz y puede poner en peligro la investigación.</desc>
   </programme>
   <programme channel="LCH3317.cl" start="20260809085300 -0400" stop="20260809105100 -0400">
     <title>Ocean's 8: Las estafadoras</title>
@@ -30774,6 +31254,10 @@
   <programme channel="LCH3318.cl" start="20260809104200 -0400" stop="20260809113700 -0400">
     <title>Sueños de libertad</title>
     <desc>Begoña, desolada, vuelve a tener un acercamiento con Andrés. Jaime tiene problemas con la vista. Jesús hace una brutal confesión a Damián.</desc>
+  </programme>
+  <programme channel="LCH3318.cl" start="20260811203600 -0400" stop="20260811212700 -0400">
+    <title>Quiéreme siempre</title>
+    <desc>Füsun no entiende por qué Leyla y sus amigos no tienen antecedentes penales. Meryem no comprende cómo Ates pudo hacer algo tan cruel.</desc>
   </programme>
   <programme channel="LCH3318.cl" start="20260809164700 -0400" stop="20260809173800 -0400">
     <title>El chico de oro</title>
@@ -31291,6 +31775,10 @@
     <title>Mentes poderosas</title>
     <desc>Ruby es una adolescente que ha sido encerrada en un campo de concentración por haber desarrollado superpoderes. Ruby escapa y se une a otros jóvenes fugados con poderes excepcionales, pero los agentes del Gobierno tratarán de capturarlos.</desc>
   </programme>
+  <programme channel="LCH3321.cl" start="20260811210000 -0400" stop="20260811233100 -0400">
+    <title>Duro de matar 2</title>
+    <desc>El policía de Los Ángeles, John McClane, enfrenta a los mercenarios que toman el control del aeropuerto de Washington D.C. y amenazan con provocar accidentes aéreos si no cumplen sus demandas.</desc>
+  </programme>
   <programme channel="LCH3321.cl" start="20260809043300 -0400" stop="20260809060000 -0400">
     <title>The Amazing Race : Te pareces a Gollum</title>
     <desc>Los participantes deberán sumergirse en el fango en busca de unas esmeraldas ocultas en un volcán.</desc>
@@ -31562,6 +32050,10 @@
   <programme channel="LCH3322.cl" start="20260811155800 -0400" stop="20260811165800 -0400">
     <title>Ciudades encontradas con Albert Lin : La cuna de los Mayas</title>
     <desc>Albert Lin se adentra en la selva mexicana para encontrar una ciudad maya perdida.</desc>
+  </programme>
+  <programme channel="LCH3322.cl" start="20260811210000 -0400" stop="20260811220100 -0400">
+    <title>Secretos de los mayas : Un mundo perdido</title>
+    <desc>Un nuevo mapa del tesoro descubre un misterioso complejo de pirámides que revela alarmantes claves de violentos sacrificios. Se exploran sistemas de cuevas recién descubiertos revelando pruebas de un antiguo ritual maya.</desc>
   </programme>
   <programme channel="LCH3322.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Mayas: Auge y caída : Civilización</title>
@@ -32143,6 +32635,14 @@
     <title>Puppy Dog Pals : The House That Bulworth Built</title>
     <desc>Bingo y Rolly, junto a sus amigos animales, construyen un nuevo hogar para Bulworth.</desc>
   </programme>
+  <programme channel="LCH3329.cl" start="20260811205300 -0400" stop="20260811212000 -0400">
+    <title>Puppy Dog Pals : Firefighter Pups; Hike Paw</title>
+    <desc>Bingo y Rolly buscan convertirse en bomberos. Los cachorros usan sus sentidos para retornar a casa después de una caminata.</desc>
+  </programme>
+  <programme channel="LCH3329.cl" start="20260811202700 -0400" stop="20260811205300 -0400">
+    <title>Puppy Dog Pals : Duendes por un día; El dilema del dréidel</title>
+    <desc>Los cachorros y sus amigos se dirigen al Polo Norte para ayudar a los elfos de Santa a completar su trabajo a tiempo para Navidad. Keia les pide ayuda a los cachorros.</desc>
+  </programme>
   <programme channel="LCH3329.cl" start="20260809051900 -0400" stop="20260809054300 -0400">
     <title>Vampirina</title>
     <desc>Una joven chica vampira se enfrenta a las alegrías y dificultades de ser la chica nueva en la ciudad, cuando su familia se muda de Transilvania a Pensilvania.</desc>
@@ -32527,6 +33027,10 @@
     <title>Hablemos de esto</title>
     <desc>Análisis de los temas de actualidad que más importan.</desc>
   </programme>
+  <programme channel="LCH3338.cl" start="20260811203000 -0400" stop="20260811220000 -0400">
+    <title>Solo una vuelta más</title>
+    <desc>Un programa de opinión y debate, en el que se propone una conversación sobre temas importantes de actualidad, pero sin perder el humor.</desc>
+  </programme>
   <programme channel="LCH3349.cl" start="20260810110000 -0400" stop="20260810130000 -0400">
     <title>Pelota parada</title>
     <desc>Informes, entrevistas, móviles y corresponsales para toda la información futbolística.</desc>
@@ -32576,6 +33080,10 @@
     <desc>El más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo, con el foco puesto en las estadísticas y con datos que permiten comprender los hechos.</desc>
   </programme>
   <programme channel="LCH3349.cl" start="20260810220000 -0400" stop="20260810230000 -0400">
+    <title>TNT Data Sports, segunda edición</title>
+    <desc>El más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo, con el foco puesto en las estadísticas y con datos que permiten comprender los hechos.</desc>
+  </programme>
+  <programme channel="LCH3349.cl" start="20260811203000 -0400" stop="20260811213000 -0400">
     <title>TNT Data Sports, segunda edición</title>
     <desc>El más pormenorizado análisis deportivo, con imágenes al instante de lo que ocurre en el mundo, con el foco puesto en las estadísticas y con datos que permiten comprender los hechos.</desc>
   </programme>
@@ -32838,6 +33346,10 @@
   <programme channel="LCH3351.cl" start="20260811110100 -0400" stop="20260811125700 -0400">
     <title>El camino de regreso</title>
     <desc>Atrapado en un trabajo sin sentido y luchando contra el alcoholismo, un exatleta de secundaria recibe una oportunidad de redención cuando se convierte en el entrenador de baloncesto de su alma máter.</desc>
+  </programme>
+  <programme channel="LCH3351.cl" start="20260811210000 -0400" stop="20260811233200 -0400">
+    <title>Diamante de sangre</title>
+    <desc>Dos hombres, un mercenario sudafricano y un pescador, acompañados por una periodista estadounidense, se unen en la búsqueda de una gema extraña, de valor incalculable, que podría cambiar sus vidas.</desc>
   </programme>
   <programme channel="LCH3351.cl" start="20260809035100 -0400" stop="20260809042600 -0400">
     <title>Hollywood One on One</title>
@@ -33207,6 +33719,22 @@
     <title>CSI : Pick and Roll</title>
     <desc>Las cosas se vuelven personales cuando el hijo de Russell se convierte en sospechoso del asesinato de un entrenador de baloncesto.</desc>
   </programme>
+  <programme channel="LCH3352.cl" start="20260811201000 -0400" stop="20260811203000 -0400">
+    <title>CSI : Goodbye y Good Luck</title>
+    <desc>Un sospechoso del pasado de Sara regresa, provocando que ella se cuestione su futuro como investigadora.</desc>
+  </programme>
+  <programme channel="LCH3352.cl" start="20260811211000 -0400" stop="20260811213000 -0400">
+    <title>CSI: Miami : Cheating Death</title>
+    <desc>Un hombre es encontrado apuñalado y esposado en un cuarto de hotel; una broma en el laboratorio amenaza una investigación y provoca división en el equipo.</desc>
+  </programme>
+  <programme channel="LCH3352.cl" start="20260811203000 -0400" stop="20260811205000 -0400">
+    <title>CSI: Miami : High Octane</title>
+    <desc>Un hombre es decapitado durante un truco y Horacio cree que su muerte no fue accidental cuando descubre que el sistema hidráulico había sido manipulado.</desc>
+  </programme>
+  <programme channel="LCH3352.cl" start="20260811205000 -0400" stop="20260811211000 -0400">
+    <title>CSI: Miami : Chain Reaction</title>
+    <desc>La investigación del asesinato de una modelo envía a Horacio de regreso a prisión, en donde debe trabajar con un antiguo enemigo para limpiar el nombre de su hijo.</desc>
+  </programme>
   <programme channel="LCH3352.cl" start="20260809044900 -0400" stop="20260809050000 -0400">
     <title>Hollywood One on One</title>
     <desc/>
@@ -33527,6 +34055,10 @@
     <title>Batwheels : The Dark Night</title>
     <desc>Para sorpresa de todos, Bam le tiene miedo a la oscuridad. Cuando Hiedra Venenosa acaba con toda la energía de Ciudad Gótica, Bam debe superar sus miedos para poder detenerla.</desc>
   </programme>
+  <programme channel="LCH3353.cl" start="20260811201400 -0400" stop="20260811202100 -0400">
+    <title>Mundo Bita - Imagine-se</title>
+    <desc>Se presentan aventuras con mucho aprendizaje y música increíble junto a Bita, Lila, Dan, Tito, Flora, Pipa, Pepe y más.</desc>
+  </programme>
   <programme channel="LCH3353.cl" start="20260809023000 -0400" stop="20260809030000 -0400">
     <title>Blippi Wonders : Sandcastle</title>
     <desc>Blippi y TABBS van a la playa y conocen a Crabby el Cangrejo. Un experto local en castillos de arena, Crabby les enseña cómo construir un castillo que no pueda ser arrastrado por el agua.</desc>
@@ -33534,6 +34066,22 @@
   <programme channel="LCH3353.cl" start="20260809090700 -0400" stop="20260809091500 -0400">
     <title>Pocoyó</title>
     <desc>Pocoyó, un niño curioso vestido de azul, se une a Pato, Elly, Loula, Pajaroto y muchos otros para aprender cosas nuevas y divertirse.</desc>
+  </programme>
+  <programme channel="LCH3353.cl" start="20260811202100 -0400" stop="20260811202900 -0400">
+    <title>Pocoyó</title>
+    <desc>Pocoyó, un niño curioso vestido de azul, se une a Pato, Elly, Loula, Pajaroto y muchos otros para aprender cosas nuevas y divertirse.</desc>
+  </programme>
+  <programme channel="LCH3353.cl" start="20260811202900 -0400" stop="20260811203600 -0400">
+    <title>Pocoyó</title>
+    <desc>Pocoyó, un niño curioso vestido de azul, se une a Pato, Elly, Loula, Pajaroto y muchos otros para aprender cosas nuevas y divertirse.</desc>
+  </programme>
+  <programme channel="LCH3353.cl" start="20260811203600 -0400" stop="20260811204300 -0400">
+    <title>Pocoyó</title>
+    <desc>Pocoyó, un niño curioso vestido de azul, se une a Pato, Elly, Loula, Pajaroto y muchos otros para aprender cosas nuevas y divertirse.</desc>
+  </programme>
+  <programme channel="LCH3353.cl" start="20260811205600 -0400" stop="20260811210200 -0400">
+    <title>Cuquín</title>
+    <desc>Cuquín, Cian y Clementina son tres niños traviesos y llenos de imaginación. Siempre en busca de nuevas aventuras, encontrarán tesoros piratas, volarán a la luna y mucho más.</desc>
   </programme>
   <programme channel="LCH3353.cl" start="20260809050000 -0400" stop="20260809060000 -0400">
     <title>Hey Fuzzy Yellow : Cloud Ukelele Dance</title>
@@ -34895,6 +35443,14 @@
     <title>Cuquín</title>
     <desc>Cuquín, Cian y Clementina son tres niños traviesos y llenos de imaginación. Siempre en busca de nuevas aventuras, encontrarán tesoros piratas, volarán a la luna y mucho más.</desc>
   </programme>
+  <programme channel="LCH3353.cl" start="20260811210200 -0400" stop="20260811211100 -0400">
+    <title>Lu y the Bally Bunch</title>
+    <desc>Una mariquita, que tiene una nueva vida social, debe aprender habilidades sociales.</desc>
+  </programme>
+  <programme channel="LCH3353.cl" start="20260811211100 -0400" stop="20260811211900 -0400">
+    <title>Lu y the Bally Bunch</title>
+    <desc>Una mariquita, que tiene una nueva vida social, debe aprender habilidades sociales.</desc>
+  </programme>
   <programme channel="LCH3353.cl" start="20260811101200 -0400" stop="20260811102400 -0400">
     <title>Batwheels : El Día de Zoom</title>
     <desc>La Legión de Zoom está cansada de perder siempre, así que deciden aprender de los Batwheels e intentar usar el trabajo en equipo para llevar a cabo un atraco.</desc>
@@ -34999,6 +35555,10 @@
     <title>Cuquín : Picnic</title>
     <desc>Cuquín quiere compartir su pícnic con Fantasma, pero está dormido. Cuquín se imagina en el sueño de Fantasma, al que intenta despertar. Pero tal vez Fantasma esté más dispuesto a comer esas golosinas de pícnic cuando haya descansado bien.</desc>
   </programme>
+  <programme channel="LCH3353.cl" start="20260811204300 -0400" stop="20260811205000 -0400">
+    <title>Cuquín : Picnic</title>
+    <desc>Cuquín quiere compartir su pícnic con Fantasma, pero está dormido. Cuquín se imagina en el sueño de Fantasma, al que intenta despertar. Pero tal vez Fantasma esté más dispuesto a comer esas golosinas de pícnic cuando haya descansado bien.</desc>
+  </programme>
   <programme channel="LCH3353.cl" start="20260811150200 -0400" stop="20260811150900 -0400">
     <title>Booba</title>
     <desc>El mundo es un misterio para el pequeño Booba, pero se acerca a las curiosidades que lo rodean con asombro y se sumerge en aventuras.</desc>
@@ -35012,6 +35572,10 @@
     <desc>Booba prepara una celebración navideña para sus amigos, pero alguien intenta arruinarla con bromas. De repente, algo toma todos por sorpresa.</desc>
   </programme>
   <programme channel="LCH3353.cl" start="20260811094800 -0400" stop="20260811095400 -0400">
+    <title>Cuquín</title>
+    <desc>Clementina pierde su tetera y no quiere ordenar para encontrarla. Se imagina estar en el Mundo Desordenado donde crea más desorden, hasta que descubre que ordenar es divertido y eso la ayuda a encontrar la tetera.</desc>
+  </programme>
+  <programme channel="LCH3353.cl" start="20260811205000 -0400" stop="20260811205600 -0400">
     <title>Cuquín</title>
     <desc>Clementina pierde su tetera y no quiere ordenar para encontrarla. Se imagina estar en el Mundo Desordenado donde crea más desorden, hasta que descubre que ordenar es divertido y eso la ayuda a encontrar la tetera.</desc>
   </programme>
@@ -35571,6 +36135,10 @@
     <title>Hollywood on Set</title>
     <desc>Descubra el mundo apasionado y desconocido del rodaje y todos los secretos que no se muestran en la televisión.</desc>
   </programme>
+  <programme channel="LCH3358.cl" start="20260811205000 -0400" stop="20260811214000 -0400">
+    <title>Blue Bloods : Todo depende del cristal</title>
+    <desc>Un periodista de investigación se niega a revelar su fuente. Danny trabaja con un adolescente con problemas como parte de un programa de la Policía de Nueva York.</desc>
+  </programme>
   <programme channel="LCH3358.cl" start="20260811200000 -0400" stop="20260811205000 -0400">
     <title>Blue Bloods : Mala compañía</title>
     <desc>Eddie investiga a una banda de secuestradores que se dirigen a las mujeres jóvenes a través de sitios web de hoteles. Una mujer que Frank conoció a principios de su carrera quiere conocer al preso que mató a su familia.</desc>
@@ -35862,6 +36430,14 @@
   <programme channel="LCH3364.cl" start="20260811024600 -0400" stop="20260811033000 -0400">
     <title>Mirada policial : Al límite</title>
     <desc>La policía detiene a un hombre con un cuchillo, enfurecido por un estofado. En Florida, los oficiales rescatan a dos niños que se tambalean en una cornisa con su madre drogada. En Utah, un intruso ataca a un oficial con su propio bastón.</desc>
+  </programme>
+  <programme channel="LCH3364.cl" start="20260811210000 -0400" stop="20260811215000 -0400">
+    <title>Mike Brewer: A todo motor</title>
+    <desc>Mike compra un coche destartalado en una subasta. Además, un BMW M3 se convierte en una verdadera pesadilla, y Mike intenta venderle a The Stig un auto compacto pero muy confiable.</desc>
+  </programme>
+  <programme channel="LCH3364.cl" start="20260811200900 -0400" stop="20260811210000 -0400">
+    <title>Mexicánicos</title>
+    <desc>Día a día en un taller de Guadalajara en donde todos usan su talento para crear vehículos con formas imposibles. Martín Vaca es un soñador que materializa cada una de sus locas invenciones y las de sus clientes.</desc>
   </programme>
   <programme channel="LCH3369.cl" start="20260809023000 -0400" stop="20260809030000 -0400">
     <title>Interés mutuo</title>
@@ -36539,6 +37115,10 @@
     <title>Chicago Med : Corazones destrozados</title>
     <desc>Un equipo de cirujanos se prepara para separar a dos siameses. Asher se reencuentra con alguien de su pasado. Archer trata a un jefe tirano con un problema cardíaco.</desc>
   </programme>
+  <programme channel="LCH3802.cl" start="20260811205000 -0400" stop="20260811214000 -0400">
+    <title>La ley y el orden : Mentiras inocentes</title>
+    <desc>El gestor de un fondo de inversión es asesinado en medio de la gran adquisición de un cliente. Price hace todo lo posible por demostrar el motivo del sospechoso.</desc>
+  </programme>
   <programme channel="LCH3804.cl" start="20260808230000 -0400" stop="20260809010000 -0400">
     <title>Película</title>
     <desc>Arte cinematográfico mundial.</desc>
@@ -36676,6 +37256,10 @@
     <desc>Arte cinematográfico mundial.</desc>
   </programme>
   <programme channel="LCH3804.cl" start="20260811170000 -0400" stop="20260811190000 -0400">
+    <title>Película</title>
+    <desc>Arte cinematográfico mundial.</desc>
+  </programme>
+  <programme channel="LCH3804.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
     <title>Película</title>
     <desc>Arte cinematográfico mundial.</desc>
   </programme>
@@ -36902,6 +37486,10 @@
   <programme channel="LCH3869.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Guapas</title>
     <desc>La historia de cinco mujeres quienes se conocen luego de la quiebra de un banco, lo que provoca un cambio emocional, económico y afectivo en sus vidas.</desc>
+  </programme>
+  <programme channel="LCH3869.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
+    <title>Un oso rojo</title>
+    <desc>Liberado de prisión, un hombre restablece el contacto con su hija y participa en un robo mortal a mano armada.</desc>
   </programme>
   <programme channel="LCH3887.cl" start="20260809185500 -0400" stop="20260809210000 -0400">
     <title>Uncharted: Fuera del mapa</title>
@@ -37155,6 +37743,10 @@
     <title>Ben-Hur</title>
     <desc>Un noble judío, tras ser acusado falsamente de traición por su hermano adoptivo, oficial del ejército romano, es despojado de su título, separado de su familia y de la mujer que ama. Esclavizado, sobrevive para regresar en busca de venganza.</desc>
   </programme>
+  <programme channel="LCH3887.cl" start="20260811210000 -0400" stop="20260811231500 -0400">
+    <title>Apocalypto</title>
+    <desc>Al acercarse el final de la civilización maya, un hombre realiza un intento desesperado por escapar de un sacrificio humano y regresar con su familia y con la mujer que ama.</desc>
+  </programme>
   <programme channel="LCH3890.cl" start="20260809121500 -0400" stop="20260809132000 -0400">
     <title>El misterio Méliès</title>
     <desc>El proceso de restauración de 270 de las 520 películas perdidas del pionero director Georges Méliès, todo ello orquestado por una colaboración franco-estadounidense entre Lobster Films, el National Film Center y la Biblioteca del Congreso.</desc>
@@ -37407,6 +37999,10 @@
     <title>Johnny Depp: Niño salvaje</title>
     <desc>El ícono de Hollywood, Johnny Depp, es conocido por sus opciones cinematográficas eclécticas y poco convencionales, desde El joven manos de tijera hasta Jack Sparrow.</desc>
   </programme>
+  <programme channel="LCH3890.cl" start="20260811210000 -0400" stop="20260811215500 -0400">
+    <title>El síndrome Helsinki : Martes</title>
+    <desc>La noticia de la toma de rehenes se extiende por todo el mundo. Hanna entrevista a un exjuez.</desc>
+  </programme>
   <programme channel="LCH3890.cl" start="20260811200500 -0400" stop="20260811210000 -0400">
     <title>El síndrome Helsinki : Lunes</title>
     <desc>Hanna Raivio ha tropezado con una evidencia extraordinaria, pero aún no es suficiente para escribir sobre ella.</desc>
@@ -37570,6 +38166,10 @@
   <programme channel="LCH3891.cl" start="20260811150500 -0400" stop="20260811170500 -0400">
     <title>El libro del amor</title>
     <desc>Henry, un escritor fracasado, se lleva una sorpresa al descubrir por qué su libro es un éxito en México: María, la traductora, ha convertido su insulsa novela en una apasionante narración erótica.</desc>
+  </programme>
+  <programme channel="LCH3891.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Charité</title>
+    <desc>En el Berlín de 1880, la pobre Ida descubre su pasión por la medicina. En una época donde las mujeres apenas tenían derecho a la educación superior, ella sigue su camino hacia una vida autodeterminada como un espíritu libre.</desc>
   </programme>
   <programme channel="LCH3893.cl" start="20260809081500 -0400" stop="20260809090100 -0400">
     <title>Conservación de tiburones</title>
@@ -37931,6 +38531,10 @@
     <title>Pesca mortal : Fuego en el mar</title>
     <desc>El Capitán Sig y su tripulación luchan contra un incendio que ha comenzado en la sala de máquinas. Además, el Saga atraviesa por una situación muy complicada, que puede acabar costando vidas humanas.</desc>
   </programme>
+  <programme channel="LCH3893.cl" start="20260811205200 -0400" stop="20260811214700 -0400">
+    <title>Guardianes de Texas : Shock en la bahía</title>
+    <desc>En el golfo, las tortugas marinas mueren durante una ola de frío. Un dato lleva a un cazador furtivo de venados. Los oficiales se ponen estrictos con los cazadores de ciervo de cola blanca. Empieza la temporada de ciervo mulo al suroeste de Texas.</desc>
+  </programme>
   <programme channel="LCH3893.cl" start="20260809195400 -0400" stop="20260809204400 -0400">
     <title>El zoológico del Bronx : La confianza de un elefante</title>
     <desc>Un elefante necesita someterse a un tratamiento veterinario bastante complicado. Unos ejemplares de paloma rosada precisan ayuda para poder engendrar. La nutria Monty tiene que visitar la consulta del dentista.</desc>
@@ -38266,6 +38870,10 @@
   <programme channel="LCH3896.cl" start="20260811080000 -0400" stop="20260811084500 -0400">
     <title>Desaparecidos : Lejos de todo</title>
     <desc>El ciclista BMX de 25 años de edad, Brian fue visto por última vez vagando en un campo. Los arriesgados movimientos de Brian podrían haber dado lugar a un severo estado de confusión y su desaparición.</desc>
+  </programme>
+  <programme channel="LCH3896.cl" start="20260811203000 -0400" stop="20260811211700 -0400">
+    <title>911: ¿Llamó el asesino? : Sospechoso en la línea</title>
+    <desc>Asesinan a un hombre en su casa, y su esposa aparece tras llamar al 911, pero la verdad es más macabra de lo que nadie se atrevía a creer. Un esposo encuentra a su esposa con disparos en la cabeza. Dice que fue un suicidio.</desc>
   </programme>
   <programme channel="LCH3896.cl" start="20260809030900 -0400" stop="20260809041500 -0400">
     <title>Reinas caídas : Muerte en el carril rápido</title>
@@ -38631,6 +39239,10 @@
     <title>Hermanas Gitanas : Sorpresa en el altar</title>
     <desc>Kayla y sus amigas van a Ocean City a celebrar su despedida de soltera. Pero una vez allí, Kayla recibe una perturbadora llamada de Richard que le obliga a plantearse si su futuro matrimonio es viable.</desc>
   </programme>
+  <programme channel="LCH3897.cl" start="20260811203000 -0400" stop="20260811211600 -0400">
+    <title>4 esposas, 1 marido : Y luego fueron tres</title>
+    <desc>Janelle toma una decisión importante sobre su situación de vida sin decírselo a Kody. La familia no está de acuerdo con que los niños regresen a la escuela. Christine reúne a sus hermanas esposas para revelar que se está divorciando de Kody.</desc>
+  </programme>
   <programme channel="LCH3899.cl" start="20260809030000 -0400" stop="20260809033000 -0400">
     <title>Alma Naranja</title>
     <desc>Un recorrido histórico del baloncesto nacional argentino.</desc>
@@ -38654,6 +39266,10 @@
   <programme channel="LCH3899.cl" start="20260811083000 -0400" stop="20260811090000 -0400">
     <title>La mítica ruta 40</title>
     <desc>Miniserie documental que recorre el camino más emblemático de la geografía argentina, revelando sus secretos y sus paisajes más increíbles.</desc>
+  </programme>
+  <programme channel="LCH3899.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Abriendo pista</title>
+    <desc>Lo mejor del rally y el deporte de motor a lo largo y a lo ancho de la República Argentina. Además, perfiles de corredores de varias provincias del país, así como también una extensa cobertura del Campeonato Argentino de Navegación (CaNav)</desc>
   </programme>
   <programme channel="LCH3899.cl" start="20260809023000 -0400" stop="20260809030000 -0400">
     <title>Espíritu de Equipo</title>
@@ -38754,6 +39370,10 @@
   <programme channel="LCH3899.cl" start="20260809220000 -0400" stop="20260809230000 -0400">
     <title>Pilotos en primera : Gastón Crusitta</title>
     <desc>Entrevista con Gastón Crusitta, reconocido por su trayectoria en el automovilismo, en la que consiguió los campeonatos de TC Mouras y Top Race Series.</desc>
+  </programme>
+  <programme channel="LCH3899.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Última vuelta</title>
+    <desc>Un espacio dispuesto para la revisión de lo mejor de las carreras del fin de semana, además del clásico debate y destacados informes.</desc>
   </programme>
   <programme channel="LCH3899.cl" start="20260811080000 -0400" stop="20260811083000 -0400">
     <title>Bestiario : El Fánix del camino</title>
@@ -39071,6 +39691,10 @@
     <title>Rock Story</title>
     <desc>La trayectoria del roquero Guilherme Santiago, un músico muy importante en la década de los 90. Una historia ambientada en Río y cargada de amor y música.</desc>
   </programme>
+  <programme channel="LCH3900.cl" start="20260811201100 -0400" stop="20260811210300 -0400">
+    <title>Rock Story</title>
+    <desc>La trayectoria del roquero Guilherme Santiago, un músico muy importante en la década de los 90. Una historia ambientada en Río y cargada de amor y música.</desc>
+  </programme>
   <programme channel="LCH3900.cl" start="20260810143200 -0400" stop="20260810154500 -0400">
     <title>Un nuevo amanecer</title>
     <desc>Candela, actriz y humorista, se ha convertido en una adicta al alcohol y otras drogas. Su vida personal y profesional son un desastre y por eso debe internarse en un centro de desintoxicación público.</desc>
@@ -39104,6 +39728,10 @@
     <desc>La familia Gunyol vivía una vida sencilla y feliz en la Anatolia turca hasta que el oficial Kilic Daghan irrumpió en sus vidas y los destrozó sin piedad.</desc>
   </programme>
   <programme channel="LCH3900.cl" start="20260811170600 -0400" stop="20260811174500 -0400">
+    <title>La venganza</title>
+    <desc>La familia Gunyol vivía una vida sencilla y feliz en la Anatolia turca hasta que el oficial Kilic Daghan irrumpió en sus vidas y los destrozó sin piedad.</desc>
+  </programme>
+  <programme channel="LCH3900.cl" start="20260811210300 -0400" stop="20260811215800 -0400">
     <title>La venganza</title>
     <desc>La familia Gunyol vivía una vida sencilla y feliz en la Anatolia turca hasta que el oficial Kilic Daghan irrumpió en sus vidas y los destrozó sin piedad.</desc>
   </programme>
@@ -39683,6 +40311,18 @@
     <title>Pantano: Se Vende : Casa pantanosa</title>
     <desc>Jill y Marvin buscan la casa flotante perfecta en el río Belle, una que les devuelva a sus raíces en los pantanos de Luisiana.</desc>
   </programme>
+  <programme channel="LCH3978.cl" start="20260811203600 -0400" stop="20260811210000 -0400">
+    <title>El mejor hotel : Miami</title>
+    <desc>La familia Scarpino está tomando unas vacaciones de ensueño en Miami. Con un presupuesto de $ 2500 y un viaje relámpago por tres lugares fantásticos.</desc>
+  </programme>
+  <programme channel="LCH3978.cl" start="20260811201200 -0400" stop="20260811203600 -0400">
+    <title>Pantano: Se Vende : Mi Primera Casa</title>
+    <desc>Josh, un ávido cazador de patos y pescador, quiere comprar su primera casa. Con tal propósito, lleva a su mejor amiga, Hannah, para que lo ayude.</desc>
+  </programme>
+  <programme channel="LCH3978.cl" start="20260811210000 -0400" stop="20260811214800 -0400">
+    <title>Regreso al mundo de la India</title>
+    <desc>Delhi aparece en toda su majestuosidad. Dolly le cuenta al grupo sobre su infancia. Gaga encuentra un abogado mientras Padda y Mandeep se cruzan con el kushti.</desc>
+  </programme>
   <programme channel="LCH3980.cl" start="20260809163600 -0400" stop="20260809172400 -0400">
     <title>Reyes de la construcción : Nieve en el Desierto</title>
     <desc>Ski-Dubai ofrece lo que parece imposible: esquiar en el desierto en la ciudad más vibrante de Arabia. Un centro de diversiones invernal sin precedentes en la historia, una increíble pieza de ingeniería.</desc>
@@ -40027,6 +40667,10 @@
     <title>Planeta Energia</title>
     <desc>La energía nuclear puede considerarse la más limpia de todas, pero sus fines militares la han convertido en tabú. Su uso en medicina, propulsión naval y propulsión espacial, la hacen cada vez más importante.</desc>
   </programme>
+  <programme channel="LCH3980.cl" start="20260811203600 -0400" stop="20260811212400 -0400">
+    <title>Reyes de la construcción : El Teleférico de Hong Kong</title>
+    <desc>Los teleféricos más asombrosos del mundo, Ngong Ping 360, están siendo construidos en las montañas de Hong Kong y se extienden por aproximadamente 5,8 kilómetros al sur del Mar de China.</desc>
+  </programme>
   <programme channel="LCH3984.cl" start="20260811060000 -0400" stop="20260811063000 -0400">
     <title>Hollywood on Set : El Regreso de Mary Poppins; La Voz de la Igualdad; Si la Colonia Hablara</title>
     <desc>Descubra el mundo apasionado y desconocido del rodaje y todos los secretos que no se muestran en la televisión.</desc>
@@ -40336,6 +40980,10 @@
     <desc>Eddie investiga a una banda de secuestradores que se dirigen a las mujeres jóvenes a través de sitios web de hoteles. Una mujer que Frank conoció a principios de su carrera quiere conocer al preso que mató a su familia.</desc>
   </programme>
   <programme channel="LCH3984.cl" start="20260811042000 -0400" stop="20260811051000 -0400">
+    <title>Blue Bloods : Todo depende del cristal</title>
+    <desc>Un periodista de investigación se niega a revelar su fuente. Danny trabaja con un adolescente con problemas como parte de un programa de la Policía de Nueva York.</desc>
+  </programme>
+  <programme channel="LCH3984.cl" start="20260811205000 -0400" stop="20260811214000 -0400">
     <title>Blue Bloods : Todo depende del cristal</title>
     <desc>Un periodista de investigación se niega a revelar su fuente. Danny trabaja con un adolescente con problemas como parte de un programa de la Policía de Nueva York.</desc>
   </programme>
@@ -40714,6 +41362,14 @@
   <programme channel="LCH3988.cl" start="20260811132400 -0400" stop="20260811141200 -0400">
     <title>Buceador : La nariz sabe</title>
     <desc>Una tubería de alcantarillado abandonada se desborda por los residuos humanos acumulados. Los daños causados por un enorme socavón amenazan con paralizar todo el sistema de alcantarillado de la ciudad, y un atasco colosal podría derribar un edificio.</desc>
+  </programme>
+  <programme channel="LCH3988.cl" start="20260811203600 -0400" stop="20260811212400 -0400">
+    <title>Expedición: Pie grande : Donde la leyenda comenzó</title>
+    <desc>El equipo ve cómo se le escapa una pista. Un dato lleva a Bryce a dar por terminada la expedición en el estado de Washington y a trasladarse a un nuevo punto de interés con relación a Pie Grande.</desc>
+  </programme>
+  <programme channel="LCH3988.cl" start="20260811201200 -0400" stop="20260811203600 -0400">
+    <title>Sangre Apalache</title>
+    <desc>Eugene y Spencer deben convertir el motor de un tractor podador en un motor fuera de borda con fuerza para impulsar una barcaza.</desc>
   </programme>
   <programme channel="LCH3993.cl" start="20260809032500 -0400" stop="20260809042000 -0400">
     <title>12 corazones : Especial de meseros</title>
@@ -41098,6 +41754,10 @@
   <programme channel="LCH4005.cl" start="20260811104500 -0400" stop="20260811113000 -0400">
     <title>Ariel en su salsa</title>
     <desc>Un espacio con el talento y la espontaneidad de Ariel, invitados con mucho condimento, un salteado de sabrosas secciones y grandes pizcas de humor. Además, nuevas recetas y platos tradicionales.</desc>
+  </programme>
+  <programme channel="LCH4005.cl" start="20260811203000 -0400" stop="20260811211500 -0400">
+    <title>Pasapalabra</title>
+    <desc>Un programa de entretenimiento en el que los participantes deben responder palabras asociadas a las letras del abecedario y a las definiciones del diccionario. Un divertido desafío para jugar y aprender con la presencia de reconocidos invitados.</desc>
   </programme>
   <programme channel="LCH4005.cl" start="20260809123000 -0400" stop="20260809160000 -0400">
     <title>La peña de Morfi</title>
@@ -41523,6 +42183,10 @@
     <title>Buenos Aires literaria</title>
     <desc/>
   </programme>
+  <programme channel="LCH6601.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Una cita con el amor</title>
+    <desc>Entrevistas a destacadas personalidades de la música.</desc>
+  </programme>
   <programme channel="LCH6601.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Folklore en casa</title>
     <desc>Un ciclo de encuentros con referentes de las diferentes expresiones del folklore argentino, en el ambiente íntimo y cálido de sus hogares.</desc>
@@ -41602,6 +42266,10 @@
   <programme channel="LCH104.cl" start="20260809230000 -0400" stop="20260809234500 -0400">
     <title>Comédia SBT</title>
     <desc>O programa marca a liberdade de fazer comédia. Com muito humor, a atração traz um mix de sátiras de clássicos da TV, gincanas, câmeras escondidas e nostalgia.</desc>
+  </programme>
+  <programme channel="LCH104.cl" start="20260811201500 -0400" stop="20260811221500 -0400">
+    <title>Bolívar x São Paulo - Copa Sul-Americana : Bolívar x São Paulo</title>
+    <desc>Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul.</desc>
   </programme>
   <programme channel="LCH104.cl" start="20260810050000 -0400" stop="20260810073000 -0400">
     <title>Se Liga Brasil</title>
@@ -41732,6 +42400,10 @@
     <desc>Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
   </programme>
   <programme channel="LCH1210.cl" start="20260811125500 -0400" stop="20260811205500 -0400">
+    <title>WSL - Etapa de Teahupo'o - Dia 3 : Etapa de Teahupo'o - Dia 3</title>
+    <desc>Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
+  </programme>
+  <programme channel="LCH1210.cl" start="20260811205500 -0400" stop="20260811230000 -0400">
     <title>WSL - Etapa de Teahupo'o - Dia 3 : Etapa de Teahupo'o - Dia 3</title>
     <desc>Todas as emoções das etapas do Circuito Mundial de Surfe, competição de elite da modalidade.</desc>
   </programme>
@@ -42415,6 +43087,10 @@
     <title>Giro da Rodada : Copa do Brasil - Oitavas de Final Volta</title>
     <desc>Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
   </programme>
+  <programme channel="LCH123.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Chapecoense x Cruzeiro - Copa do Brasil : Chapecoense x Cruzeiro</title>
+    <desc>Equipes de todo o território brasileiro se enfrentam no tradicional mata-mata de futebol masculino de olho na sonhada vaga para a Copa Libertadores da América.</desc>
+  </programme>
   <programme channel="LCH123.cl" start="20260809081500 -0400" stop="20260809083500 -0400">
     <title>Giro da Rodada : Brasileirão - 22ª Rodada</title>
     <desc>Destaques das principais competições de futebol masculino e feminino pelo Brasil.</desc>
@@ -42499,6 +43175,10 @@
     <title>Premiere 2</title>
     <desc>Acompanhe a programação pay-per-view.</desc>
   </programme>
+  <programme channel="LCH142.cl" start="20260811210000 -0400" stop="20260812050000 -0400">
+    <title>Premiere 2</title>
+    <desc>Acompanhe a programação pay-per-view.</desc>
+  </programme>
   <programme channel="LCH142.cl" start="20260809130000 -0400" stop="20260809153000 -0400">
     <title>Premiere 2</title>
     <desc>Acompanhe a programação pay-per-view.</desc>
@@ -42566,6 +43246,10 @@
   <programme channel="LCH144.cl" start="20260809143000 -0400" stop="20260809160000 -0400">
     <title>Moto GP - GP da Grã-Bretanha - Corrida Sprint : GP da Grã-Bretanha - Corrida Sprint</title>
     <desc>Acompanhe as emoções da principal categoria de motovelocidade do planeta.</desc>
+  </programme>
+  <programme channel="LCH144.cl" start="20260811201500 -0400" stop="20260811223000 -0400">
+    <title>Estudiantes x Universidad Católica - Copa Libertadores da América : Estudiantes x Universidad Católica</title>
+    <desc>Todas as emoções da principal competição de futebol masculino disputada entre clubes da América do Sul, e que garante ao campeão vaga no Mundial de Clubes da FIFA.</desc>
   </programme>
   <programme channel="LCH144.cl" start="20260810010000 -0400" stop="20260810023000 -0400">
     <title>Linha de Passe: Mesa-Redonda</title>
@@ -42882,6 +43566,10 @@
   <programme channel="LCH211.cl" start="20260810020000 -0400" stop="20260810030000 -0400">
     <title>Bola da Vez : Carlos Prates</title>
     <desc>Grandes personalidades do esporte nacional e internacional são colocadas no "paredão" e respondem às perguntas de uma bancada de entrevistadores formada por jornalistas, ex-atletas ou especialistas em geral.</desc>
+  </programme>
+  <programme channel="LCH211.cl" start="20260811201500 -0400" stop="20260811223000 -0400">
+    <title>Bolívar x São Paulo - Copa Sul-Americana : Bolívar x São Paulo</title>
+    <desc>Toda a disputa da segunda mais importante competição masculina entre clubes da América do Sul.</desc>
   </programme>
   <programme channel="LCH215.cl" start="20260809100300 -0400" stop="20260809103900 -0400">
     <title>Tapas y Beijos : Com Vestido Pronto, Lorraine Desiste de se Casar</title>
@@ -43399,6 +44087,14 @@
     <title>Tapas y Beijos : Sueli e Fátima Começam a Lutar...</title>
     <desc>Sueli e Fátima seguem sofrendo com as crises conjugais; as amigas usam as armas que têm, seja para salvar o matrimônio ou retomar a boa convivência com seus maridos.</desc>
   </programme>
+  <programme channel="LCH215.cl" start="20260811204800 -0400" stop="20260811213000 -0400">
+    <title>Vai que Cola : Dengue</title>
+    <desc>Dona Jô recebe uma encomenda para fazer quentinhas, mas fica de cama por conta de uma epidemia de dengue que atingiu alguns moradores da pensão. Jéssica e Ferdinando se inscrevem no concurso Garota da Laje, mas têm de ajudar a fazer as quentinhas.</desc>
+  </programme>
+  <programme channel="LCH215.cl" start="20260811201200 -0400" stop="20260811204800 -0400">
+    <title>A Grande Família : Tudo o que Você Não Queria Saber Sobre Sexo</title>
+    <desc>Nenê acorda com os uivos de Marilda e quer apimentar a relação; Lineu toma comprimidos estimulantes escondido, mas quando Nenê descobre começa a duvidar dos sentimentos dele.</desc>
+  </programme>
   <programme channel="LCH216.cl" start="20260811164500 -0400" stop="20260811190000 -0400">
     <title>Taubaté x Palmeiras - Campeonato Paulista de Futebol Feminino : Taubaté x Palmeiras</title>
     <desc>As melhores equipes femininas do futebol paulista brigam pelo título do principal torneio do estado.</desc>
@@ -43628,6 +44324,10 @@
     <desc>Acompanhe as emoções da divisão de elite do futebol feminino brasileiro, com 16 clubes na disputa.</desc>
   </programme>
   <programme channel="LCH216.cl" start="20260811143000 -0400" stop="20260811164500 -0400">
+    <title>Flamengo x Corinthians - Campeonato Brasileiro Sub-17 : Flamengo x Corinthians</title>
+    <desc>Todas as emoções da principal competição nacional de futebol masculino com equipes sub-17.</desc>
+  </programme>
+  <programme channel="LCH216.cl" start="20260811203000 -0400" stop="20260811213000 -0400">
     <title>Flamengo x Corinthians - Campeonato Brasileiro Sub-17 : Flamengo x Corinthians</title>
     <desc>Todas as emoções da principal competição nacional de futebol masculino com equipes sub-17.</desc>
   </programme>
@@ -44063,6 +44763,10 @@
     <title>Jornal Nacional</title>
     <desc>As principais notícias do Brasil e do mundo, tendo sempre em pauta atualidades, matérias de denúncia e investigação. O telejornal aborda política, economia, jornalismo internacional, esporte e a tradicional previsão do tempo.</desc>
   </programme>
+  <programme channel="LCH3084.cl" start="20260811202000 -0400" stop="20260811212500 -0400">
+    <title>Quem Ama Cuida</title>
+    <desc>Adriana orienta Iuri sobre o comportamento com Pilar. Otoniel encontra Francesca, e Mau Mau vê o avô falando e dançando sozinho no jardim. Edvaldo flagra Iuri vasculhando o escritório que era de Arthur. Diná se sente humilhada por Pilar.</desc>
+  </programme>
   <programme channel="LCH3084.cl" start="20260809112500 -0400" stop="20260809131500 -0400">
     <title>Velozes y Furiosos - Hobbs y Shaw</title>
     <desc>O corpulento policial Luke Hobbs se junta ao fora da lei Deckard Shaw para combater um terrorista geneticamente melhorado que tem força sobre-humana.</desc>
@@ -44080,6 +44784,10 @@
     <desc>Todas as emoções de partidas amistosas de futebol disputadas entre equipes masculinas.</desc>
   </programme>
   <programme channel="LCH3545.cl" start="20260810080000 -0400" stop="20260810100000 -0400">
+    <title>Arsenal x Borussia Dortmund - Amistoso de Futebol Masculino : Arsenal x Borussia Dortmund</title>
+    <desc>Todas as emoções de partidas amistosas de futebol disputadas entre equipes masculinas.</desc>
+  </programme>
+  <programme channel="LCH3545.cl" start="20260811210000 -0400" stop="20260811230000 -0400">
     <title>Arsenal x Borussia Dortmund - Amistoso de Futebol Masculino : Arsenal x Borussia Dortmund</title>
     <desc>Todas as emoções de partidas amistosas de futebol disputadas entre equipes masculinas.</desc>
   </programme>
@@ -44655,6 +45363,10 @@
     <title>Show da Fé</title>
     <desc>Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
   </programme>
+  <programme channel="LCH5685.cl" start="20260811202500 -0400" stop="20260811212000 -0400">
+    <title>Show da Fé</title>
+    <desc>Acompanhe depoimentos, testemunhos e histórias surpreendentes de amor e de superação. Com uma ótica cristã, o programa leva o Evangelho de Jesus Cristo aos quatro cantos do mundo e difunde a reveladora Palavra de Deus.</desc>
+  </programme>
   <programme channel="LCH5685.cl" start="20260809150000 -0400" stop="20260809163000 -0400">
     <title>Missão Quase Impossível</title>
     <desc>Bob, um espião da CIA, precisa cuidar dos filhos da namorada enquanto ela viaja. Mas uma das crianças faz acidentalmente o download de uma fórmula secreta e revela o paradeiro dele para um terrorista russo.</desc>
@@ -45030,6 +45742,10 @@
   <programme channel="LCH7180.cl" start="20260811193000 -0400" stop="20260811200000 -0400">
     <title>Sail GP - Racing on the Edge</title>
     <desc>Série que mostra os bastidores da Sail GP, destacando as principais histórias por trás da competição mundial de vela envolvendo catamarãs F50.</desc>
+  </programme>
+  <programme channel="LCH7180.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>Papo de Paddock</title>
+    <desc>O jornalista Ale Speitzzer traz uma visão única e privilegiada do mundo do automobilismo, combinando análise aprofundada e curiosidades fascinantes por meio de entrevistas exclusivas com pilotos, especialistas e personalidades de diversas categorias.</desc>
   </programme>
   <programme channel="LCH7180.cl" start="20260809013000 -0400" stop="20260809023000 -0400">
     <title>Papo de Paddock</title>
@@ -45527,6 +46243,14 @@
     <title>Samba pra Sempre : Fundo de Quintal</title>
     <desc>Dudu recebe o grupo Fundo de Quintal, que marcou época, revelou talentos e influenciou todas as gerações posteriores.</desc>
   </programme>
+  <programme channel="LCH81.cl" start="20260811203000 -0400" stop="20260811210000 -0400">
+    <title>Setlist</title>
+    <desc>A cada episódio, o programa apresenta uma lista de artistas e seus trabalhos.</desc>
+  </programme>
+  <programme channel="LCH81.cl" start="20260811210000 -0400" stop="20260811220300 -0400">
+    <title>Isle of Wight Festival 2019</title>
+    <desc>Destaques do festival da Ilha de Wight 2019, com apresentações de George Ezra e Fatboy Slim.</desc>
+  </programme>
   <programme channel="LCH81.cl" start="20260811200000 -0400" stop="20260811203000 -0400">
     <title>Replay - Exagerado : Audição</title>
     <desc>Lucinha Araújo e pessoas próximas de Cazuza ouvem releituras de "Exagerado", além de relembrarem sua trajetória.</desc>
@@ -45614,6 +46338,10 @@
   <programme channel="LCH855.cl" start="20260811060000 -0400" stop="20260811083000 -0400">
     <title>St. Louis Cardinals x Philadelphia Phillies - MLB : St. Louis Cardinals x Philadelphia Phillies</title>
     <desc>From Busch Stadium in St. Louis, Mi.</desc>
+  </programme>
+  <programme channel="LCH855.cl" start="20260811210000 -0400" stop="20260811220000 -0400">
+    <title>ESPN League</title>
+    <desc>Notícias, análises e curiosidades sobre tudo o que rola com a bola: redonda, oval ou achatada.</desc>
   </programme>
   <programme channel="LCH855.cl" start="20260809180000 -0400" stop="20260809190000 -0400">
     <title>Donk Toss Bikini Island Challenge</title>
@@ -45818,6 +46546,10 @@
   <programme channel="LCH930.cl" start="20260811101000 -0400" stop="20260811101500 -0400">
     <title>Morgana y Celeste</title>
     <desc>A poderosa bruxa Morgana, de "Castelo Rá-Tim-Bum", relembra grandes momentos da história da humanidade testemunhados por ela. Ao lado, com os ouvidos sempre atentos, está a cobra mais curiosa e desbocada de todos os tempos, Celeste.</desc>
+  </programme>
+  <programme channel="LCH930.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
+    <title>Metrópolis</title>
+    <desc>Tudo o que acontece no mundo da arte e da cultura: música, cinema, teatro, artes plásticas, moda, games e comportamento.</desc>
   </programme>
   <programme channel="LCH930.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Jornal da Cultura</title>
@@ -46494,6 +47226,10 @@
   <programme channel="LCH95.cl" start="20260811200000 -0400" stop="20260811210000 -0400">
     <title>Coração de Mãe</title>
     <desc>Karsu vive um casamento infeliz e enfrenta uma rotina sufocante como mãe de três filhos. Sua vida muda radicalmente quando Kuzey desaparece por três anos. Ao retornar, Karsu tenta reconquistar o amor do filho, enquanto descobre a traição do marido.</desc>
+  </programme>
+  <programme channel="LCH95.cl" start="20260811210000 -0400" stop="20260811213000 -0400">
+    <title>Reis</title>
+    <desc>A história da nação de Israel, do momento em que o último juiz, o profeta Samuel, é usado por Deus para guiar o Seu povo, até a lamentável queda de Jerusalém, causada pelos exércitos da Babilônia.</desc>
   </programme>
   <programme channel="LCH95.cl" start="20260810040000 -0400" stop="20260810060000 -0400">
     <title>Balanço Geral Manhã</title>
