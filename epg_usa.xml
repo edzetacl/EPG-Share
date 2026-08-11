@@ -984,11 +984,7 @@
   <channel id="1786.13go">
     <display-name>13Teleseries</display-name>
   </channel>
-  <programme start="20260811181541 -0400" stop="20260811190319 -0400" channel="1786.13go">
-    <title lang="es">Hippie</title>
-    <desc lang="es">Hippie | Capítulo 78 | </desc>
-  </programme>
-  <programme start="20260811190319 -0400" stop="20260811195742 -0400" channel="1786.13go">
+  <programme start="20260811190843 -0400" stop="20260811195742 -0400" channel="1786.13go">
     <title lang="es">Papi Ricky</title>
     <desc lang="es">Papi Ricky | Capítulo 118 | </desc>
   </programme>
@@ -1091,6 +1087,10 @@
   <programme start="20260812174531 -0400" stop="20260812182737 -0400" channel="1786.13go">
     <title lang="es">Amor a la catalán</title>
     <desc lang="es">AMOR A LA CATALÁN - CAPÍTULO 86 | Dos familias, una panadería y un padre que esconde un gran misterio.</desc>
+  </programme>
+  <programme start="20260812182737 -0400" stop="20260812191947 -0400" channel="1786.13go">
+    <title lang="es">Hippie</title>
+    <desc lang="es">Hippie | Capítulo 78 | </desc>
   </programme>
   <channel id="1844.13go">
     <display-name>13Festival</display-name>
@@ -1755,11 +1755,7 @@
   <channel id="1793.13go">
     <display-name>13Cultura</display-name>
   </channel>
-  <programme start="20260811180043 -0400" stop="20260811190214 -0400" channel="1793.13go">
-    <title lang="es">De Cuchara</title>
-    <desc lang="es">De Cuchara | Capítulo 06 | Cobquecura | </desc>
-  </programme>
-  <programme start="20260811190215 -0400" stop="20260811195954 -0400" channel="1793.13go">
+  <programme start="20260811190546 -0400" stop="20260811195954 -0400" channel="1793.13go">
     <title lang="es">El coleccionista de historias y tesoros</title>
     <desc lang="es">El Coleccionista | Capítulo 08 | </desc>
   </programme>
@@ -1850,5 +1846,9 @@
   <programme start="20260812165849 -0400" stop="20260812175741 -0400" channel="1793.13go">
     <title lang="es">Lugares que Hablan</title>
     <desc lang="es">Lugares que hablan | De Quillota a Quintero | </desc>
+  </programme>
+  <programme start="20260812175741 -0400" stop="20260812190547 -0400" channel="1793.13go">
+    <title lang="es">De Cuchara</title>
+    <desc lang="es">De Cuchara | Capítulo 06 | Cobquecura | </desc>
   </programme>
 </tv>
